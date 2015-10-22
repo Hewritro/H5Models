@@ -1,0 +1,2462 @@
+
+Helmet
+RECRUIT
+Decades of combat experience with Mjolnir suits informed the design and electronics hardware architecture of the RECRUIT helmet.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a002/a002_helmet_high-67fb12f4be5946b9844a24fe6f6f5e34.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a002/s000/a002_s000_helmet_color-784f3308153a425e9c746e6adfd94d9d.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a002/s000/a002_s000_helmet_normal-3808d99da8544393be328a5df691a690.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a002/s000/a002_s000_helmet_control_optimized-04438a30e0714423af8739da57c050e2.png"
+    }
+  }
+}
+
+Helmet
+AIR ASSAULT
+The AIR ASSAULT helmet's long-range comm system makes it popular with Spartan fireteam leaders, but Naphtali also markets this helmet to Army special forces.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a004/a004_helmet_high-a121ffbe23b442d9853ff0105f82c59b.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a004/s000/a004_s000_helmet_color-8e6724568df5470a835290e4e1b2b2fc.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a004/s000/a004_s000_helmet_normal-a390a909a54d4762be85de407f1786c9.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a004/s000/a004_s000_helmet_control_optimized-9c4d8a7e5188459199e0cab72a8f7bd0.png"
+    }
+  }
+}
+
+Helmet
+ANUBIS
+The ANUBIS helmet's enhanced sensor suite benefits from collaboration with allied Sangheili, though ONI security paranoia has slowed technology integration.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a048/a048_helmet_high-913ed85257bd4553a1b3e767fa5a370f.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a048/s000/a048_s000_helmet_color-3c8043baffa7468b9d382b082b57c408.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a048/s000/a048_s000_helmet_normal-efe2cf8837b341ea911a315b9ac60cac.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a048/s000/a048_s000_helmet_control_optimized-96d866bb741c42f6826a596db22977d9.png"
+    }
+  }
+}
+
+Helmet
+ATHLON
+The ATHLON helmet's inner layer uses a magnetorheological dampening system perfectly tuned to the peculiarities of Spartan physiology.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a000/a000_helmet_high-09effcd565554c73b7108c7a4a595908.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a000/s000/a000_s000_helmet_color-16d4f3fb75c947b2930d0437795670ec.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a000/s000/a000_s000_helmet_normal-b95d977b94c04a98b70745b9654f2282.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a000/s000/a000_s000_helmet_control_optimized-6fbf0ab0a2694b969e110610b7a3b2ba.png"
+    }
+  }
+}
+
+Helmet
+ATHLON LYCINUS
+The ATHLON helmet's inner layer uses a magnetorheological dampening system perfectly tuned to the peculiarities of Spartan physiology.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a000/a000_helmet_high-09effcd565554c73b7108c7a4a595908.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a000/s001/a000_s001_helmet_color-413ce804d46a4fd79560c66c6c3a1633.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a000/s000/a000_s000_helmet_normal-b95d977b94c04a98b70745b9654f2282.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a000/s001/a000_s001_helmet_control_optimized-c560bd7f41a841ea92716a1eb31ebaa8.png"
+    }
+  }
+}
+
+Helmet
+ATHLON VARAZDAT
+The ATHLON helmet's inner layer uses a magnetorheological dampening system perfectly tuned to the peculiarities of Spartan physiology.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a000/a000_helmet_high-09effcd565554c73b7108c7a4a595908.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a000/s002/a000_s002_helmet_color-2b7eb95a01d54693a325c5ab6135d38b.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a000/s000/a000_s000_helmet_normal-b95d977b94c04a98b70745b9654f2282.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a000/s002/a000_s002_helmet_control_optimized-f6a61dc1929943a7879396dfb700503d.png"
+    }
+  }
+}
+
+Helmet
+AVIATOR
+Usable only by augmented personnel, the AVIATOR helmet's ultra-wideband machine interlink gives Spartan-IV pilots unparalleled control over their aircraft.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a006/a006_helmet_high-ef3ca6eca0c24dc2b4e06ee5fe735fef.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a006/s000/a006_s000_helmet_color-f783cf6bc1b54735b226321c7b28facb.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a006/s000/a006_s000_helmet_normal-d294b4cc74fe4e9ba7c68f49e388a2c5.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a006/s000/a006_s000_helmet_control_optimized-410934cc450d4dbebf7597f38d71d17f.png"
+    }
+  }
+}
+
+Helmet
+AVIATOR ACE
+Usable only by augmented personnel, the AVIATOR helmet's ultra-wideband machine interlink gives Spartan-IV pilots unparalleled control over their aircraft.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a006/a006_helmet_high-ef3ca6eca0c24dc2b4e06ee5fe735fef.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a006/s002/a006_s002_helmet_color-6ad3af3ffd3b42b68557205b996390c7.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a006/s000/a006_s000_helmet_normal-d294b4cc74fe4e9ba7c68f49e388a2c5.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-renderntrol_with_manual_visor_fix_optimized-12acc8f5982245f7bf17b326551a7b23.png"
+    }
+  }
+}
+
+Helmet
+AVIATOR DELTA
+Usable only by augmented personnel, the AVIATOR helmet's ultra-wideband machine interlink gives Spartan-IV pilots unparalleled control over their aircraft.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a006/a006_helmet_high-ef3ca6eca0c24dc2b4e06ee5fe735fef.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a006/s001/a006_s001_helmet_color-49a5cfa3b80b4983973e80e37bd4ad5a.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a006/s000/a006_s000_helmet_normal-d294b4cc74fe4e9ba7c68f49e388a2c5.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a006/s001/a006_s001_helmet_control_optimized-b105c0d3f10346aeaa4da439e028ca96.png"
+    }
+  }
+}
+
+Helmet
+BREAKER
+The BREAKER's core systems are based on IMC's industrial spaceworker ensemble.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a054/a054_helmet_high-2bcc170c2d224091bbf164c361e41312.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a054/s000/a054_s000_helmet_color-a8688046aa7b48fd9ce21642ed854162.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a054/s000/a054_s000_helmet_normal-79d2ca1837414739b006d6c5950092a6.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-rendert_a054_s000_control_updated_optimized-a5f1ad4f7f8a431aaf8ba3ef0eb1ace3.png"
+    }
+  }
+}
+
+Helmet
+EVA
+The EVA helmet can be paired with all milspec hardshell and mechanical counterpressure suits.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a045/a045_helmet_high-15153c0b99e3487299acce7993646931.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a045/s000/a045_s000_helmet_color-3cf0a10b364f43b8902c4a9e41377a66.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a045/s000/a045_s000_helmet_normal-659f8077787a46fea8b9f68e421c217d.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a045/s000/a045_s000_helmet_control_optimized-b6f8275af5a94f8e98662b52dc2a8d0d.png"
+    }
+  }
+}
+
+Helmet
+FOEHAMMER
+The FOEHAMMER helmet features an ultra-wideband vehicle cyberlink which induces total body paralysis to allow for better pilot synchronization.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a053/a053_helmet_high-128dd90eeb3f4283b3cb9eae94d02d13.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a053/s000/a053_s000_helmet_color-61827d54b96744af9f8ebdc185ab24a2.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a053/s000/a053_s000_helmet_normal-b32e16a50fe04155860b7a0f595b6950.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a053/s000/a053_s000_helmet_control_optimized-09aca4469dfe4ac7bd4ba8286aafb9e2.png"
+    }
+  }
+}
+
+Helmet
+JUMPMASTER
+Spartan combat drops have a far wider margin of safety than ODSTs, but the consequences of accidents are significantly more dire.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a052/a052_helmet_high-444abe66123d499ab7d2098788e60687.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a052/s000/a052_s000_helmet_color-c1b91136eed74665a4e2c540bcf62305.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a052/s000/a052_s000_helmet_normal-f3b25518360346d3a1b696ea8d50f1ac.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a052/s000/a052_s000_helmet_control_optimized-af4528b7f81a436abe545d403d00b910.png"
+    }
+  }
+}
+
+Helmet
+JUMPMASTER SKY SOLDIER
+Spartan combat drops have a far wider margin of safety than ODSTs, but the consequences of accidents are significantly more dire.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a052/a052_helmet_high-444abe66123d499ab7d2098788e60687.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a052/s001/a052_s001_helmet_color-3ddf80411c4940f4b5197d6fa865e2cb.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a052/s000/a052_s000_helmet_normal-f3b25518360346d3a1b696ea8d50f1ac.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a052/s001/a052_s001_helmet_control_optimized-1095f1b76bc744b6b51225834bb8d18c.png"
+    }
+  }
+}
+
+Helmet
+LEGIONNAIRE
+Creating a Mjolnir variant from scratch was once extremely difficult, expensive, and fraught with risk. The LEGIONNAIRE presages a democratization of Mjolnir technology that may prove impossible to control.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a056/a056_helmet_high-c86a0a87b59a49de852ba0d7e5e7d620.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a056/s000/a056_s000_helmet_color-23463724d7864732b8fbb17c8348a7b1.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a056/s000/a056_s000_helmet_normal-2f449e33df7e4cc480c1e91849752fcb.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a056/s000/a056_s000_helmet_control_optimized-193e383cf8b54789a58a0369879ae14b.png"
+    }
+  }
+}
+
+Helmet
+LEGIONNAIRE OPTIO
+Creating a Mjolnir variant from scratch was once extremely difficult, expensive, and fraught with risk. The LEGIONNAIRE presages a democratization of Mjolnir technology that may prove impossible to control.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a056/a056_helmet_high-c86a0a87b59a49de852ba0d7e5e7d620.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a056/s001/a056_s001_helmet_color-71fec0ae7e684609958c4034671937c1.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a056/s000/a056_s000_helmet_normal-2f449e33df7e4cc480c1e91849752fcb.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a056/s001/a056_s001_helmet_control_optimized-b1600ee328d24a2eaa108a3f17f03d66.png"
+    }
+  }
+}
+
+Helmet
+RECLUSE
+Lack of ethical, legal, and administrative oversight would allow hypothetical RECLUSE designers to fully exploit Spartan neurological peculiarities - albeit at great risk of inducing dangerous side effects.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a055/a055_helmet_high-19b64a3150814c1fbbf5dfbd9ebaa3b1.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a055/s000/a055_s000_helmet_color-3939c4942a4b4240ba39ddb06021a434.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a055/s000/a055_s000_helmet_normal-dcba345319394989816e0371633e201d.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a055/s000/a055_s000_helmet_control_optimized-f9596ea0b5e74ddeb1ae1780c25c2244.png"
+    }
+  }
+}
+
+Helmet
+RECLUSE LAETA
+Lack of ethical, legal, and administrative oversight would allow hypothetical RECLUSE designers to fully exploit Spartan neurological peculiarities - albeit at great risk of inducing dangerous side effects.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a055/a055_helmet_high-19b64a3150814c1fbbf5dfbd9ebaa3b1.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a055/s001/a055_s001_helmet_color-deadacc0ee0449bf9e63ce15ff5ad824.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a055/s000/a055_s000_helmet_normal-dcba345319394989816e0371633e201d.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a055/s001/a055_s001_helmet_control_optimized-c14bd5059fd74f54958752c0cf485e8e.png"
+    }
+  }
+}
+
+Helmet
+RECON
+The heavily classified Auspex battlenet uplink in the RECON helmet contains the latest counter-cyberintrusion and firewall routines from ONI.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a008/a008_helmet_high-d0695428a5fc490b9f681ec44ea4a1f6.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a008/s000/a008_s000_helmet_color-b9122c53114e4b829d3f558b7a6ad938.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a008/s000/a008_s000_helmet_normal-32267962202749e5b3bb1771d158ead8.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a008/s000/a008_s000_helmet_control_optimized-50c89a1d85434f859395b4289cf3719e.png"
+    }
+  }
+}
+
+Helmet
+RECRUIT CHARRED
+Decades of combat experience with Mjolnir suits informed the design and electronics hardware architecture of the RECRUIT helmet.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a002/a002_helmet_high-67fb12f4be5946b9844a24fe6f6f5e34.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a002/s001/a002_s001_helmet_color-90bd3b2361b14fc48bd52032bf8239fb.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a002/s000/a002_s000_helmet_normal-3808d99da8544393be328a5df691a690.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a002/s001/a002_s001_helmet_control_optimized-2b72e34d74594cfb874632ad3bf5a44e.png"
+    }
+  }
+}
+
+Helmet
+SOLDIER
+Low power consumption, comfort, and obsessive attention paid to ergonomics distinguish the SOLDIER helmet design from other Mjolnir patterns.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a005/a005_helmet_high-00d25b3cbaab4db98b0f1dc3f8927341.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a005/s000/a005_s000_helmet_color-89815b0c024f44409fcd53d82be5be14.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a005/s000/a005_s000_helmet_normal-1f3a85c27fd84999b45ae51ccf57113a.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a005/s000/a005_s000_helmet_control_optimized-9dccb5dec170444fbcf28b9bb3e6a48c.png"
+    }
+  }
+}
+
+Helmet
+SOLDIER LEATHERNECK
+Low power consumption, comfort, and obsessive attention paid to ergonomics distinguish the SOLDIER helmet design from other Mjolnir patterns.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a005/a005_helmet_high-00d25b3cbaab4db98b0f1dc3f8927341.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a005/s001/a005_s001_helmet_color-ee8c596a1df74fdc852ae20b740d4b89.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a005/s000/a005_s000_helmet_normal-1f3a85c27fd84999b45ae51ccf57113a.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a005/s001/a005_s001_helmet_control_optimized-dfaf5c8fe1a143bca01d69d9d27cfd04.png"
+    }
+  }
+}
+
+Helmet
+VALKYRIE
+The full capabilities of the VALKYRIE are only revealed when paired with the latest aerospace flight control systems.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a049/a049_helmet_high-074f1abe012244b4a7c804f00ddc3e2b.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a049/s000/a049_s000_helmet_color-3673a8fe2f2c48be9527e27261c54203.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a049/s000/a049_s000_helmet_normal-a75f5ccbf87e4503aa2c1ba8bf78deef.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a049/s000/a049_s000_helmet_control_optimized-fc0a1579106047458664b7da92eb0e07.png"
+    }
+  }
+}
+
+Helmet
+VALKYRIE EIR
+The full capabilities of the VALKYRIE are only revealed when paired with the latest aerospace flight control systems.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a049/a049_helmet_high-074f1abe012244b4a7c804f00ddc3e2b.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a049/s001/a049_s001_helmet_color-435462f2f6ad42069fa385e1f8cfa1a5.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a049/s000/a049_s000_helmet_normal-a75f5ccbf87e4503aa2c1ba8bf78deef.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a049/s001/a049_s001_helmet_control_optimized-8c83cf240eb647c6bff8f250fd150677.png"
+    }
+  }
+}
+
+Helmet
+WARRIOR
+The WARRIOR helmet's robust design protects an elegant combination of sensors and computing clusters that are fully interoperable with all Mjolnir derivatives.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a003/a003_helmet_high-969fe75e0e0e4008925fa9b0cca90fde.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a003/s000/a003_s000_helmet_color-fc18bb215baf434abfdff8edfc166aca.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a003/s000/a003_s000_helmet_normal-d9e460eff2ee4288b2c36f755d4b78b9.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a003/s000/a003_s000_helmet_control_optimized-340982d062a3430d97b5acc1e27f4ea3.png"
+    }
+  }
+}
+
+Helmet
+WARRIOR HELM
+The WARRIOR helmet's robust design protects an elegant combination of sensors and computing clusters that are fully interoperable with all Mjolnir derivatives.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a003/a003_helmet_high-969fe75e0e0e4008925fa9b0cca90fde.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a003/s001/a003_s001_helmet_color-1ee4074f16984c4cb93b09c9ba87743c.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a003/s000/a003_s000_helmet_normal-d9e460eff2ee4288b2c36f755d4b78b9.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a003/s001/a003_s001_helmet_control_optimized-086f023b3d3b4adfa455f6ce6abe03f8.png"
+    }
+  }
+}
+
+Helmet
+AIR ASSAULT DISRUPT
+The AIR ASSAULT helmet's long-range comm system makes it popular with Spartan fireteam leaders, but Naphtali also markets this helmet to Army special forces.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a004/a004_helmet_high-a121ffbe23b442d9853ff0105f82c59b.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a004/s001/a004_s001_helmet_color-6e5160fedeca4b91832551bb528f7ba2.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a004/s000/a004_s000_helmet_normal-a390a909a54d4762be85de407f1786c9.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a004/s001/a004_s001_helmet_control_optimized-3a1699c5a89f4a408660a94856377ff6.png"
+    }
+  }
+}
+
+Helmet
+ANUBIS NEPHTHYS
+The ANUBIS helmet's enhanced sensor suite benefits from collaboration with allied Sangheili, though ONI security paranoia has slowed technology integration.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a048/a048_helmet_high-913ed85257bd4553a1b3e767fa5a370f.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a048/s001/a048_s001_helmet_color-b4e504b93a1e4b73af801c6772c83291.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a048/s000/a048_s000_helmet_normal-efe2cf8837b341ea911a315b9ac60cac.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a048/s001/a048_s001_helmet_control_optimized-1bd24fdb23754425bfe201ff44cd9ab7.png"
+    }
+  }
+}
+
+Helmet
+ATHLON CYNISCA
+The ATHLON helmet's inner layer uses a magnetorheological dampening system perfectly tuned to the peculiarities of Spartan physiology.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a000/a000_helmet_high-09effcd565554c73b7108c7a4a595908.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a000/s003/a000_s003_helmet_color-030fdce37d024c9abc4b6215c07311ff.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a000/s000/a000_s000_helmet_normal-b95d977b94c04a98b70745b9654f2282.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a000/s003/a000_s003_helmet_control_optimized-66278baed574447fa3b310a1173abc8a.png"
+    }
+  }
+}
+
+Helmet
+AVIATOR CSAR
+Usable only by augmented personnel, the AVIATOR helmet's ultra-wideband machine interlink gives Spartan-IV pilots unparalleled control over their aircraft.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a006/a006_helmet_high-ef3ca6eca0c24dc2b4e06ee5fe735fef.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a006/s003/a006_s003_helmet_color-3c9dc89fe56245e486befbc995006141.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a006/s000/a006_s000_helmet_normal-d294b4cc74fe4e9ba7c68f49e388a2c5.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a006/s003/a006_s003_helmet_control_optimized-d1afbbf3a8ca4984a838fd802850dfe5.png"
+    }
+  }
+}
+
+Helmet
+BREAKER HATCHETMAN
+The BREAKER's core systems are based on IMC's industrial spaceworker ensemble.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a054/a054_helmet_high-2bcc170c2d224091bbf164c361e41312.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a054/s001/a054_s001_helmet_color-3fdb2772872e42dbb75aa5bea3af813a.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a054/s000/a054_s000_helmet_normal-79d2ca1837414739b006d6c5950092a6.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a054/s001/a054_s001_helmet_control_optimized-f7cfa8158ae04d0497535e5e9d21cd24.png"
+    }
+  }
+}
+
+Helmet
+BUCCANEER 
+BUCCANEER helmets use off-the-shelf components, but the casing is custom made. The HUD is also compatible with military VISRs, employing ingenious hacks to bypass licensing locks.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a083/a083_helmet_high-6412e075568e403cac3043b0d048e0cf.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a083/s000/a083_s000_helmet_color-aefea4f8e45f4ba78cc37ed38818ca51.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a083/s000/a083_s000_helmet_normal-fd14092afe604a8c93658c3110846e0e.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a083/s000/a083_s000_helmet_control_optimized-fb29ef7952564021a76917255bda4b30.png"
+    }
+  }
+}
+
+Helmet
+COMMANDO
+Naphtali greatly benefited from its acquisition of Chalybs' original COMMANDO designs, which allowed them to bring their GEN2 Mjolnir armor to market several months ahead of schedule.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a030/a030_helmet_high-41421b66e3d14fb0a02415c91537cf22.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a030/s000/a030_s000_helmet_color-a87ae41233754405ba5391b4f112bf0f.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a030/s000/a030_s000_helmet_normal-5c84087748f34140b20e92c01c682ea5.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a030/s000/a030_s000_helmet_control_optimized-9c4b1c171bc44895b9cd48a5ab92384d.png"
+    }
+  }
+}
+
+Helmet
+CYPHER
+CYPHER is not the most mysterious of the Io Design Lab's many products, nor is it even the most secret.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a057/a057_helmet_high-afbe858cefcd4b3ea299df3316fa8a99.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a057/s000/a057_s000_helmet_color-2a8ab7fe2ff44d859e089bf8f8d013a8.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a057/s000/a057_s000_helmet_normal-9af1c4be41b74378ad2383fd22ad2c88.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a057/s000/a057_s000_helmet_control_optimized-565ac626aa4640cb80ad71647327b608.png"
+    }
+  }
+}
+
+Helmet
+CYPHER COPIALE
+CYPHER is not the most mysterious of the Io Design Lab's many products, nor is it even the most secret.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a057/a057_helmet_high-afbe858cefcd4b3ea299df3316fa8a99.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a057/s001/a057_s001_helmet_color-dd4c7bcd125145649af5d341e341d2c4.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a057/s000/a057_s000_helmet_normal-9af1c4be41b74378ad2383fd22ad2c88.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a057/s001/a057_s001_helmet_control_optimized-62122a5cfbb44d4eb0ea79992917a2d5.png"
+    }
+  }
+}
+
+Helmet
+ENFORCER
+Input from the ENFORCERS helmet-mounted cycloptics is often fed directly into the battlenet for on-line review by intelligence specialists and battlespace management AIs.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a017/a017_helmet_high-acb58814921c48cd92fded1a60204234.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a017/s000/a017_s000_helmet_color-3e440122296141fc84c52ff658aa8a66.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a017/s000/a017_s000_helmet_normal-1275bc0568a64c7da331a011a2e5fa9c.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a017/s000/a017_s000_helmet_control_optimized-8b21b5c63bce4e2f924687a0d4f474c1.png"
+    }
+  }
+}
+
+Helmet
+ENGINEER
+The microframe embedded in the ENGINEER helmet supports running multiple concurrent AI shards with limited remote control of limbs and suit controls.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a022/a022_helmet_high-db52b08c145f4fdd890cb23050076a20.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a022/s000/a022_s000_helmet_color-0bc3b7c994b44e60a5936a0f35fe4e9c.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a022/s000/a022_s000_helmet_normal-53e2fe1a4fcc4623bce423b8ece242df.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a022/s000/a022_s000_helmet_control_optimized-244d53afbb3348dcaf404fa9acc8ed4d.png"
+    }
+  }
+}
+
+Helmet
+EVA HADFIELD
+The EVA helmet can be paired with all milspec hardshell and mechanical counterpressure suits.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a045/a045_helmet_high-15153c0b99e3487299acce7993646931.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a045/s001/a045_s001_helmet_color-fdec2c5ffb0540e09c75ddc095191fa3.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a045/s000/a045_s000_helmet_normal-659f8077787a46fea8b9f68e421c217d.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a045/s001/a045_s001_helmet_control_optimized-b30388b134ef41b28de7d334aef49381.png"
+    }
+  }
+}
+
+Helmet
+FENRIR
+Technicians have found scrapcode buried in the FENRIR's neural interface controller that does not conform to any known programming language.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a063/a063_helmet_high-cb2c8e7628664adbb7ffde9b10ddd69d.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a063/s000/a063_s000_helmet_color-51c932d3742f471589b0e51708d540d8.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a063/s000/a063_s000_helmet_normal-4bb4ce749a5d4fb69d2767d5a50bd741.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a063/s000/a063_s000_helmet_control_optimized-570b816c290c45e497c1e38824ae6b10.png"
+    }
+  }
+}
+
+Helmet
+FOEHAMMER ECHO
+The FOEHAMMER helmet features an ultra-wideband vehicle cyberlink which induces total body paralysis to allow for better pilot synchronization.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a053/a053_helmet_high-128dd90eeb3f4283b3cb9eae94d02d13.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a053/s001/a053_s001_helmet_color-5feddecbf7924bfbadff4c1045994871.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a053/s000/a053_s000_helmet_normal-b32e16a50fe04155860b7a0f595b6950.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a053/s001/a053_s001_helmet_control_optimized-1c8d7a8516fa44edb5c0f50d5ce6e67a.png"
+    }
+  }
+}
+
+Helmet
+FREEBOOTER
+The FREEBOOTER's seamless nanofabricated armor panels hint at a Sangheili trade link.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a080/a080_helmet_high-e6479caca9bc4cb5b67dc5f8bd78c78b.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a080/s000/a080_s000_helmet_color-98254c02bfcb46cda0a12114dbd32fcf.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a080/s000/a080_s000_helmet_normal-1cc38088cb994e6787256e6cabb185f0.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a080/s000/a080_s000_helmet_control_optimized-d535deff9e8d4ed39630ecc8664ddcad.png"
+    }
+  }
+}
+
+Helmet
+GOBLIN
+The UNSC Infinity's Fireteam Shadow tested GOBLIN suits during the Requiem campaign. 
+
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a061/a061_helmet_high-9db5606b10484afb827fe4b04f1b091b.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a061/s000/a061_s000_helmet_color-d8be8baa0f8d47e4a9a71b4804d320df.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a061/s000/a061_s000_helmet_normal-36e03f23790446c5abf2ace482c04d41.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a061/s000/a061_s000_helmet_control_optimized-6440758912ea4bb78e07ca825248c6a5.png"
+    }
+  }
+}
+
+Helmet
+GOBLIN ERLKING
+The UNSC Infinity's Fireteam Shadow tested GOBLIN suits during the Requiem campaign. 
+
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a061/a061_helmet_high-9db5606b10484afb827fe4b04f1b091b.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a061/s001/a061_s001_helmet_color-8cf8456164824d22aab19c163e0bf699.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a061/s000/a061_s000_helmet_normal-36e03f23790446c5abf2ace482c04d41.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a061/s001/a061_s001_helmet_control_optimized-708d90af7ad34fbb904532e4e55a5cda.png"
+    }
+  }
+}
+
+Helmet
+HELLCAT
+Tests with Spartan-II veterans show near-perfect synchronization with HELLCAT armor, but compatible Spartan-IV operators require an acclimatization period and tweaks to their augmentation maintenance before deployment. 
+
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a084/a084_helmet_high-39aacb8407ad421391ed143284ec33de.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a084/s000/a084_s000_helmet_color-7c98dd6d16d04b50aee9439db666d98c.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a084/s000/a084_s000_helmet_normal-323907f4771341a7b2d31c025a39ffab.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a084/s000/a084_s000_helmet_control_optimized-940a2222ae0c42ff8963beaad62f7d22.png"
+    }
+  }
+}
+
+Helmet
+INTERCEPTOR
+Customizable operator settings for the INTERCEPTOR allow everything from neural interface bandwidth to helmet air conditioning to be adjusted.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a058/a058_helmet_high-4802d8f0943a49209fcfc6e32856a595.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a058/s000/a058_s000_helmet_color-953fe5eb71e74cd4bf4ef395d39dc6b4.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a058/s000/a058_s000_helmet_normal-daf6483f6dd74e1fbff657b5c02947b8.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a058/s000/a058_s000_helmet_control_optimized-cbf9bf280bf740c582e93025729e274d.png"
+    }
+  }
+}
+
+Helmet
+INTERCEPTOR CUTTER
+Customizable operator settings for the INTERCEPTOR allow everything from neural interface bandwidth to helmet air conditioning to be adjusted.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a058/a058_helmet_high-4802d8f0943a49209fcfc6e32856a595.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a058/s001/a058_s001_helmet_color-80943b1f49074fde9b246c3e20c248ea.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a058/s000/a058_s000_helmet_normal-daf6483f6dd74e1fbff657b5c02947b8.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a058/s001/a058_s001_helmet_control_optimized-ddb8dd96ffea49d9a6192ef7f3486594.png"
+    }
+  }
+}
+
+Helmet
+JUMPMASTER RIPCORD
+Spartan combat drops have a far wider margin of safety than ODSTs, but the consequences of accidents are significantly more dire.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a052/a052_helmet_high-444abe66123d499ab7d2098788e60687.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a052/s002/a052_s002_helmet_color-cf29613ba79b458dbd7bb32526ab052f.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a052/s000/a052_s000_helmet_normal-f3b25518360346d3a1b696ea8d50f1ac.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a052/s002/a052_s002_helmet_control_optimized-5bc9ab6f415d473f9d57ba9c6549ce7b.png"
+    }
+  }
+}
+
+Helmet
+LEGIONNAIRE ALARIS
+Creating a Mjolnir variant from scratch was once extremely difficult, expensive, and fraught with risk. The LEGIONNAIRE presages a democratization of Mjolnir technology that may prove impossible to control.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a056/a056_helmet_high-c86a0a87b59a49de852ba0d7e5e7d620.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a056/s002/a056_s002_helmet_color-6b06e2c872f341d8ac5bb83415524a9d.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a056/s000/a056_s000_helmet_normal-2f449e33df7e4cc480c1e91849752fcb.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a056/s002/a056_s002_helmet_control_optimized-687754d6b516467a97d52a732a17c288.png"
+    }
+  }
+}
+
+Helmet
+MAKO
+Though offered as a complete GEN2 Mjolnir system for the Spartan branch, adoption of the MAKO helmet by Army combat divers has proven to be more profitable.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a064/a064_helmet_high-e2a8fb1fd31342c98a9fbfbe6eac2364.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a064/s000/a064_s000_helmet_color-f6f5bacc05664732ad674f7d085922d7.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a064/s001/a064_s001_helmet_normal-3a3380b38dca4827a1c0597724e69766.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a064/s000/a064_s000_helmet_control_optimized-96b2420091be40bfb81261df4d242124.png"
+    }
+  }
+}
+
+Helmet
+NOMAD
+The life support components of the NOMAD can handle a much wider range of atmospheric compositions and temperature regimes than is typical for Mjolnir armors.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a051/a051_helmet_high-3a12750900644b9dbbc2ee6733f05056.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a051/s000/a051_s000_helmet_color-9af70b17ef3c4e4bab15ed6ce50ed68b.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a051/s000/a051_s000_helmet_normal-aebf1d39ec344f31a7d1107f66a116d4.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a051/s000/a051_s000_helmet_control_optimized-24a643780f9e4ed0beb0a25c30de670f.png"
+    }
+  }
+}
+
+Helmet
+ORBITAL
+The Buffalo A-29 comm suite in the ORBITAL helmet works flawlessly with the ad-hoc and anarchic telecommunication networks found in many colonies.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a046/a046_helmet_high-7cc912da320f4e03ab6d1aaaaf289aec.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a046/s000/a046_s000_helmet_color-0f279ac1dfd94a5b89792fdd7c46c28b.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a046/s000/a046_s000_helmet_normal-da24ed7a035e48a090831134204f69b0.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a046/s000/a046_s000_helmet_control_optimized-62a1c7055ee240b28b34b957b686e2b3.png"
+    }
+  }
+}
+
+Helmet
+PATHFINDER
+Dedicated expert systems or dedicated AI's can be housed in the PATHFINDER helmet for on-site analysis of signals intelligence. These are run in a separate virtual machine from the rest of the suit's systems for security reasons.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a021/a021_helmet_high-af84f0fa48e14b93aa02ffa4b962c5fe.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a021/s000/a021_s000_helmet_color-b1919661bc344c69b0a4c52477f20aca.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a021/s000/a021_s000_helmet_normal-88555a1b6cb34164850171ff85a0efd9.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a021/s000/a021_s000_helmet_control_optimized-5b0280fa801546ca8161b7789326f80a.png"
+    }
+  }
+}
+
+Helmet
+PIONEER
+The sensor fidelity and high-bandwidth storage capacity in the PIONEER helmet makes it ideal for detailed environment scans used in War Games and intelligence analysis scene reconstructions.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a020/a020_helmet_high-f7ffae5b38f04501bad0cf6a033f6975.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a020/s000/a020_s000_helmet_color-c60fba8116514a3f92bcd258e6b06d83.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a020/s000/a020_s000_helmet_normal-747e59516db94486b745b1708d3daf0b.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a020/s000/a020_s000_helmet_control_optimized-87ee7552297a42a5a6989db4543911ab.png"
+    }
+  }
+}
+
+Helmet
+RECLUSE SERI
+Lack of ethical, legal, and administrative oversight would allow hypothetical RECLUSE designers to fully exploit Spartan neurological peculiarities - albeit at great risk of inducing dangerous side effects.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a055/a055_helmet_high-19b64a3150814c1fbbf5dfbd9ebaa3b1.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a055/s002/a055_s002_helmet_color-30939158fc8e4294af21c6f978a0333e.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a055/s000/a055_s000_helmet_normal-dcba345319394989816e0371633e201d.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a055/s002/a055_s002_helmet_control_optimized-d40efb6504b8403082fad77726a3eda8.png"
+    }
+  }
+}
+
+Helmet
+RECON RSO
+The heavily classified Auspex battlenet uplink in the RECON helmet contains the latest counter-cyberintrusion and firewall routines from ONI.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a008/a008_helmet_high-d0695428a5fc490b9f681ec44ea4a1f6.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a008/s001/a008_s001_helmet_color-beb7f5b1ef424e21826fcbf6be41a3c1.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a008/s000/a008_s000_helmet_normal-32267962202749e5b3bb1771d158ead8.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a008/s001/a008_s001_helmet_control_optimized-9dc83c227e6d4542a70b6d94b8573844.png"
+    }
+  }
+}
+
+Helmet
+RECRUIT MARKED
+Decades of combat experience with Mjolnir suits informed the design and electronics hardware architecture of the RECRUIT helmet.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a002/a002_helmet_high-67fb12f4be5946b9844a24fe6f6f5e34.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a002/s002/a002_s002_helmet_color-557d9b473fc64b009bfa6a1ba5066735.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a002/s000/a002_s000_helmet_normal-3808d99da8544393be328a5df691a690.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a002/s002/a002_s002_helmet_control_optimized-6f8b2fb2cef34aeabe1cb64f30e34e1d.png"
+    }
+  }
+}
+
+Helmet
+SCOUT
+Materials Group tested various form factors of the SCOUT helmet before settling on a sleek shape reminiscent of the MARK VI [GEN1] model.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a009/a009_helmet_high-1fadad8eac144b7d919b722d5849cc2e.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a009/s000/a009_s000_helmet_color-5be9d9fe060840d7853f6ea3176b7406.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a009/s000/a009_s000_helmet_normal-5d30182efcf540dba773a45994b3c161.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a009/s000/a009_s000_helmet_control_optimized-f5beea47d5cc4bfbac8d48afd377061e.png"
+    }
+  }
+}
+
+Helmet
+SEEKER
+Except for the prototypes, all SEEKER suits are currently located on the UNSC Infinity.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a060/a060_helmet_high-0b7569dd17cb4b6ba28cc7c065d279ab.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a060/s000/a060_s000_helmet_color-f47992c5277d41a39b358b1a26b32549.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a060/s000/a060_s000_helmet_normal-3840b68bab3042fba2d838a9b98c8c3d.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a060/s000/a060_s000_helmet_control_optimized-20fb6e98bbeb4b98932dcd02fc39ca08.png"
+    }
+  }
+}
+
+Helmet
+SEEKER INTREPID
+Except for the prototypes, all SEEKER suits are currently located on the UNSC Infinity.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a060/a060_helmet_high-0b7569dd17cb4b6ba28cc7c065d279ab.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a060/s001/a060_s001_helmet_color-d00605d3a2d241ebb8541734cdbbc793.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a060/s000/a060_s000_helmet_normal-3840b68bab3042fba2d838a9b98c8c3d.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a060/s001/a060_s001_helmet_control_optimized-3d2a9c4ad9634560a0ef2fe1a0c0123b.png"
+    }
+  }
+}
+
+Helmet
+SOLDIER REBEL
+Low power consumption, comfort, and obsessive attention paid to ergonomics distinguish the SOLDIER helmet design from other Mjolnir patterns.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a005/a005_helmet_high-00d25b3cbaab4db98b0f1dc3f8927341.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a005/s002/a005_s002_helmet_color-6bc605eec0c342b1804b4068d89843ca.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a005/s000/a005_s000_helmet_normal-1f3a85c27fd84999b45ae51ccf57113a.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a005/s002/a005_s002_helmet_control_optimized-6d25bf272ac944d289735a516b0af32f.png"
+    }
+  }
+}
+
+Helmet
+TEISHIN
+TEISHIN heads-up displays take full advantage of VISR filters, augmented reality overlays, and cognition enhancing software to present a clear, concise, and organized view of the battlefield.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a047/a047_helmet_high-efb0ec63ed0743bcbea1ffa0868ebd93.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a047/s000/a047_s000_helmet_color-3de641a5b0cb4b8f98f662e7adcbbdf0.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a047/s000/a047_s000_helmet_normal-3ba6e6a3f6ba4aa2a357f78b86696736.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a047/s000/a047_s000_helmet_control_optimized-7cf75b55f79d45eaa4ee645a0706bd77.png"
+    }
+  }
+}
+
+Helmet
+VALKYRIE HRIST
+The full capabilities of the VALKYRIE are only revealed when paired with the latest aerospace flight control systems.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a049/a049_helmet_high-074f1abe012244b4a7c804f00ddc3e2b.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a049/s002/a049_s002_helmet_color-e8bdef56b59749d0a3a868d64292ef13.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a049/s000/a049_s000_helmet_normal-a75f5ccbf87e4503aa2c1ba8bf78deef.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a049/s002/a049_s002_helmet_control_optimized-32613209c88541cb8fe9a4fb954ea8fe.png"
+    }
+  }
+}
+
+Helmet
+VECTOR
+VECTOR helmets feature a Covenant dataport and dummy plug, allowing the user to commune with artifact-seeking Luminaries.                                                                                                                                                                                                                                      
+
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a065/a065_helmet_high-49095f34ffb94fd69f7014a9beb0d265.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a065/s000/a065_s000_helmet_color-45c78d95c53f4371a9cf507ced2e3784.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a065/s000/a065_s000_helmet_normal-55a9028e1dbb48fab34fe2bf81bbd465.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a065/s000/a065_s000_helmet_control_optimized-2011cbe0934a4f79ad52a4971204cc0b.png"
+    }
+  }
+}
+
+Helmet
+VECTOR INTERRUPT
+VECTOR helmets feature a Covenant dataport and dummy plug, allowing the user to commune with artifact-seeking Luminaries.                                                                                                                                                                                                                                      
+
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a065/a065_helmet_high-49095f34ffb94fd69f7014a9beb0d265.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a065/s001/a065_s001_helmet_color-5da908157b6a4290bda835457d61cabb.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a065/s000/a065_s000_helmet_normal-55a9028e1dbb48fab34fe2bf81bbd465.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a065/s001/a065_s001_helmet_control_optimized-81662e2e3bcc4217bf2ee2caa64c2566.png"
+    }
+  }
+}
+
+Helmet
+VENTURE
+The VENTURE helmet has very few integral sensors, instead relying on modular packs that can be customized before each mission.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a079/a079_helmet_high-fab3b43fc77149c4ac248fef1d2e031c.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a079/s000/a079_s000_helmet_color-75a17cf909cf498d9e605c50ad4784e1.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a079/s000/a079_s000_helmet_normal-b2dbc8789cde40d4a71f31768e33e723.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a079/s000/a079_s000_helmet_control_optimized-e4bdbcf311974b17a664d9dd41d7c9d6.png"
+    }
+  }
+}
+
+Helmet
+VIPER
+Spartans with extensive experience on the VIPER variant have displayed both statistically significant increases in aggression levels and measurable improvements in reaction times.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a059/a059_helmet_high-b19b31e892884743b7d96fcd9f1657be.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a059/s000/a059_s000_helmet_color-ea32a59217d8427493e72b501d4e0c5a.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a059/s000/a059_s000_helmet_normal-7e1cc922c23f4dd49b0c4389cff3fc5b.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a059/s000/a059_s000_helmet_control_optimized-9bed6b8010614099ac9c3979f2554e3d.png"
+    }
+  }
+}
+
+Helmet
+WARRIOR BLADE
+The WARRIOR helmet's robust design protects an elegant combination of sensors and computing clusters that are fully interoperable with all Mjolnir derivatives.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a003/a003_helmet_high-969fe75e0e0e4008925fa9b0cca90fde.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a003/s003/a003_s003_helmet_color-c15ff5ae6bf84763b36c05d50a55dd9c.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a003/s000/a003_s000_helmet_normal-d9e460eff2ee4288b2c36f755d4b78b9.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a003/s003/a003_s003_helmet_control_optimized-8230eef6c25b47ae94aa737157db288a.png"
+    }
+  }
+}
+
+Helmet
+WARRIOR SHIELD
+The WARRIOR helmet's robust design protects an elegant combination of sensors and computing clusters that are fully interoperable with all Mjolnir derivatives.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a003/a003_helmet_high-969fe75e0e0e4008925fa9b0cca90fde.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a003/s002/a003_s002_helmet_color-b32566332b4e4a2e8e1f27f5a79dbc7f.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a003/s000/a003_s000_helmet_normal-d9e460eff2ee4288b2c36f755d4b78b9.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a003/s002/a003_s002_helmet_control_optimized-5ec9bb71f5d04d718e5310f110ec503b.png"
+    }
+  }
+}
+
+Helmet
+AIR ASSAULT IMPACT
+The AIR ASSAULT helmet's long-range comm system makes it popular with Spartan fireteam leaders, but Naphtali also markets this helmet to Army special forces.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a004/a004_helmet_high-a121ffbe23b442d9853ff0105f82c59b.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a004/s002/a004_s002_helmet_color-890db2001fdb47b190a32d300dbe5af6.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a004/s000/a004_s000_helmet_normal-a390a909a54d4762be85de407f1786c9.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a004/s002/a004_s002_helmet_control_optimized-2fed5b0db452424787c7cdb77bc0d58b.png"
+    }
+  }
+}
+
+Helmet
+ANUBIS SET
+The ANUBIS helmet's enhanced sensor suite benefits from collaboration with allied Sangheili, though ONI security paranoia has slowed technology integration.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a048/a048_helmet_high-913ed85257bd4553a1b3e767fa5a370f.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a048/s002/a048_s002_helmet_color-30c2890403f14ddeb758857fe94553de.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a048/s000/a048_s000_helmet_normal-efe2cf8837b341ea911a315b9ac60cac.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a048/s002/a048_s002_helmet_control_optimized-9d6cf77a38374d35a24e0af21b12dd76.png"
+    }
+  }
+}
+
+Helmet
+ARGONAUT
+ARGONAUT helmets can accept next-generation Block 10 Neural Interface Controller hardware once it clears UNSC Ordnance Committee approval loops.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a066/a066_helmet_high-da332802bcb548119e9a1221387a5860.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a066/s000/a066_s000_helmet_color-cf447a43b93740f097d0a811ab0bfc2a.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a066/s000/a066_s000_helmet_normal-b6c9f224acbb4db7b09910f5cc7a9ead.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a066/s000/a066_s000_helmet_control_optimized-48893706a8854dd5b1fbbb07d146adc6.png"
+    }
+  }
+}
+
+Helmet
+ATHLON ICCUS
+The ATHLON helmet's inner layer uses a magnetorheological dampening system perfectly tuned to the peculiarities of Spartan physiology.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a000/a000_helmet_high-09effcd565554c73b7108c7a4a595908.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a000/s004/a000_s004_helmet_color-d1048aa2b86a427e95fbba9707580d3f.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a000/s000/a000_s000_helmet_normal-b95d977b94c04a98b70745b9654f2282.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a000/s004/a000_s004_helmet_control_optimized-b012fe85a7d44855a11fbf0a83cc7c14.png"
+    }
+  }
+}
+
+Helmet
+BREAKER DOOMSDAY
+The BREAKER's core systems are based on IMC's industrial spaceworker ensemble.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a054/a054_helmet_high-2bcc170c2d224091bbf164c361e41312.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a054/s002/a054_s002_helmet_color-6cafd4d8233347778dd4770f4301a285.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a054/s000/a054_s000_helmet_normal-79d2ca1837414739b006d6c5950092a6.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a054/s002/a054_s002_helmet_control_optimized-0f1edd7738bc4faebd0f965934b83883.png"
+    }
+  }
+}
+
+Helmet
+BUCCANEER TYR
+BUCCANEER helmets use off-the-shelf components, but the casing is custom made. The HUD is also compatible with military VISRs, employing ingenious hacks to bypass licensing locks.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a083/a083_helmet_high-6412e075568e403cac3043b0d048e0cf.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a083/s001/a083_s001_helmet_color-ff49e5d064ed40129dd448b9574d7803.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a083/s000/a083_s000_helmet_normal-fd14092afe604a8c93658c3110846e0e.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a083/s001/a083_s001_helmet_control_optimized-e9f0fd2eeeb34a11a4511c8c7e64c4d0.png"
+    }
+  }
+}
+
+Helmet
+CIO
+The neural interface bypass in the CIO helmet allows the wearer to create custom synesthesia profiles to remap the suit sensors with their own senses.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a027/a027_helmet_high-ea363c8a4e324bff8c1517500f574479.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a027/s000/a027_s000_helmet_color-8d3c00ef6b024c799a67e216c0af5a5e.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a027/s000/a027_s000_helmet_normal-95404c04af734fb6a165d7b32137797c.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a027/s000/a027_s000_helmet_control_optimized-d10257e7a757414eb289d5d9c6aec2ce.png"
+    }
+  }
+}
+
+Helmet
+COMMANDO VERDE
+Naphtali greatly benefited from its acquisition of Chalybs' original COMMANDO designs, which allowed them to bring their GEN2 Mjolnir armor to market several months ahead of schedule.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a030/a030_helmet_high-41421b66e3d14fb0a02415c91537cf22.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a030/s001/a030_s001_helmet_color-0c2a181da58a42f095775a094758f02a.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a030/s001/a030_s001_helmet_normal-3398f56145f84dfd9994464caeff12c2.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a030/s001/a030_s001_helmet_control_optimized-88340d703d354f7ab79b7b774f30d08b.png"
+    }
+  }
+}
+
+Helmet
+CYPHER VOYNICH
+CYPHER is not the most mysterious of the Io Design Lab's many products, nor is it even the most secret.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a057/a057_helmet_high-afbe858cefcd4b3ea299df3316fa8a99.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a057/s002/a057_s002_helmet_color-b9c037f4bd1e41039fbf557e207de8f3.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a057/s000/a057_s000_helmet_normal-9af1c4be41b74378ad2383fd22ad2c88.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a057/s002/a057_s002_helmet_control_optimized-996e55b7cd9c4bc69b9baff953e1367f.png"
+    }
+  }
+}
+
+Helmet
+DEFENDER
+It has not escaped notice that the observation and communication features of the DEFENDER helmet are well-suited for combat actuation in urban environments.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a007/a007_helmet_high-779cc61060d7469b9ef86da423e53f31.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a007/s000/a007_s000_helmet_color-0ca03624d741470089e3d9275235ebcf.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a007/s000/a007_s000_helmet_normal-40d75cbb0b92414db98c3fa2ac4a94a7.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a007/s000/a007_s000_helmet_control_optimized-95ac629a1b8d471ea496a96db5515e51.png"
+    }
+  }
+}
+
+Helmet
+DEFENDER CASTLE
+It has not escaped notice that the observation and communication features of the DEFENDER helmet are well-suited for combat actuation in urban environments.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a007/a007_helmet_high-779cc61060d7469b9ef86da423e53f31.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a007/s001/a007_s001_helmet_color-bf925f1f12154c20aa247a56ecfdeb7e.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a007/s000/a007_s000_helmet_normal-40d75cbb0b92414db98c3fa2ac4a94a7.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a007/s001/a007_s001_helmet_control_optimized-5458fcc59e6c4c4ab66b4d62c638585d.png"
+    }
+  }
+}
+
+Helmet
+EVA SOLOVYEV
+The EVA helmet can be paired with all milspec hardshell and mechanical counterpressure suits.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a045/a045_helmet_high-15153c0b99e3487299acce7993646931.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a045/s002/a045_s002_helmet_color-b0485cb8e55246b4a6444146f4e83d63.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a045/s000/a045_s000_helmet_normal-659f8077787a46fea8b9f68e421c217d.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a045/s002/a045_s002_helmet_control_optimized-3f19daf7a8f14d499f0e46aacabf1106.png"
+    }
+  }
+}
+
+Helmet
+FENRIR UNCHAINED
+Technicians have found scrapcode buried in the FENRIR's neural interface controller that does not conform to any known programming language.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a063/a063_helmet_high-cb2c8e7628664adbb7ffde9b10ddd69d.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a063/s002/a063_s002_helmet_color-3ad1ee7551be48b5ab89affec23e6604.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a063/s000/a063_s000_helmet_normal-4bb4ce749a5d4fb69d2767d5a50bd741.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a063/s002/a063_s002_helmet_control_optimized-50b9c05d46a940f8ac96c7e3850cec4c.png"
+    }
+  }
+}
+
+Helmet
+FENRIR WOEBRINGER
+Technicians have found scrapcode buried in the FENRIR's neural interface controller that does not conform to any known programming language.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a063/a063_helmet_high-cb2c8e7628664adbb7ffde9b10ddd69d.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a063/s001/a063_s001_helmet_color-95c31c93e7234881aed8be8dacf3ad64.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a063/s000/a063_s000_helmet_normal-4bb4ce749a5d4fb69d2767d5a50bd741.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a063/s001/a063_s001_helmet_control_optimized-29df8759e8b9439b8677da5f7e102072.png"
+    }
+  }
+}
+
+Helmet
+FOEHAMMER VICTOR
+The FOEHAMMER helmet features an ultra-wideband vehicle cyberlink which induces total body paralysis to allow for better pilot synchronization.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a053/a053_helmet_high-128dd90eeb3f4283b3cb9eae94d02d13.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a053/s002/a053_s002_helmet_color-60d7ed7e0d8c4aa8a7f7e86293be0e44.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a053/s000/a053_s000_helmet_normal-b32e16a50fe04155860b7a0f595b6950.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a053/s002/a053_s002_helmet_control_optimized-7d25b2d285af4ff3b3ef9fee9eb5bee7.png"
+    }
+  }
+}
+
+Helmet
+GOBLIN DOKKAEBI
+The UNSC Infinity's Fireteam Shadow tested GOBLIN suits during the Requiem campaign. 
+
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a061/a061_helmet_high-9db5606b10484afb827fe4b04f1b091b.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a061/s002/a061_s002_helmet_color-a8fb363c20f7418e845e7661c9257487.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a061/s000/a061_s000_helmet_normal-36e03f23790446c5abf2ace482c04d41.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a061/s002/a061_s002_helmet_control_optimized-77920a83aaad42f98037bdfd6cd1d147.png"
+    }
+  }
+}
+
+Helmet
+HELLCAT MARAUDER
+Tests with Spartan-II veterans show near-perfect synchronization with HELLCAT armor, but compatible Spartan-IV operators require an acclimatization period and tweaks to their augmentation maintenance before deployment. 
+
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a084/a084_helmet_high-39aacb8407ad421391ed143284ec33de.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a084/s001/a084_s001_helmet_color-d1127139823c4ec5a0b0a7b7fe2ffb0d.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a084/s000/a084_s000_helmet_normal-323907f4771341a7b2d31c025a39ffab.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a084/s001/a084_s001_helmet_control_optimized-cdb2d418452c4b2c93b2fb21b9c069b3.png"
+    }
+  }
+}
+
+Helmet
+INFILTRATOR
+The INFILTRATOR helmet is one of the few that can fit the heavily classified ZILANT comm suite needed to access ONI's various hidden microsatellite constellations.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a016/a016_helmet_high-32e1fcbc416d44ce95877f76fa5531b1.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a016/s000/a016_s000_helmet_color-4159498ecc524851b4b26e04f0752a46.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a016/s000/a016_s000_helmet_normal-ba98a278d2e64dacaf1a710437a5447f.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a016/s000/a016_s000_helmet_control_optimized-b8cdfa0ba1934edd8aef5e39f09dc0bb.png"
+    }
+  }
+}
+
+Helmet
+INTERCEPTOR IMPERATOR
+Customizable operator settings for the INTERCEPTOR allow everything from neural interface bandwidth to helmet air conditioning to be adjusted.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a058/a058_helmet_high-4802d8f0943a49209fcfc6e32856a595.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a058/s002/a058_s002_helmet_color-a46b14ab118c42379874396718e8ae77.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a058/s000/a058_s000_helmet_normal-daf6483f6dd74e1fbff657b5c02947b8.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a058/s002/a058_s002_helmet_control_optimized-aaf99d318a3d45afb758fca290f87832.png"
+    }
+  }
+}
+
+Helmet
+MAKO CHTHONIC
+Though offered as a complete GEN2 Mjolnir system for the Spartan branch, adoption of the MAKO helmet by Army combat divers has proven to be more profitable.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a064/a064_helmet_high-e2a8fb1fd31342c98a9fbfbe6eac2364.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a064/s001/a064_s001_helmet_color-da9089455c374ca8ab169317fce16c72.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a064/s001/a064_s001_helmet_normal-3a3380b38dca4827a1c0597724e69766.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a064/s001/a064_s001_helmet_control_optimized-f56b8f28cc29474a8968259a038c29a2.png"
+    }
+  }
+}
+
+Helmet
+NOBLE
+A significant update of the MK.V/K design, NOBLE helmets feature hardened battlenet uplinks and Chalybs' latest kinetic mesh networking admin tools.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a068/a068_helmet_high-0b5e6abbf2cd47ffbd723aa3b03a4236.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a068/s000/a068_s000_helmet_color-122e5e4c764a4cbdb0d1d186e0e426ae.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a068/s000/a068_s000_helmet_normal-d7868525a5a341eaad822bdf95b1a348.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a068/s000/a068_s000_helmet_control_optimized-64598c97d5b945658bea166e95189d95.png"
+    }
+  }
+}
+
+Helmet
+NOMAD WANDERLUST
+The life support components of the NOMAD can handle a much wider range of atmospheric compositions and temperature regimes than is typical for Mjolnir armors.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a051/a051_helmet_high-3a12750900644b9dbbc2ee6733f05056.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a051/s001/a051_s001_helmet_color-d857a176ed814e44a03aafab88e62435.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a051/s000/a051_s000_helmet_normal-aebf1d39ec344f31a7d1107f66a116d4.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a051/s001/a051_s001_helmet_control_optimized-a89da85e55874b94829e7a9d28f7790f.png"
+    }
+  }
+}
+
+Helmet
+OPERATOR
+OPERATOR visor plates include hyperspectral optical sensors, though the sensor fusion software that would tie that information into VISR has yet to be finalized.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a019/a019_helmet_high-b2428fc1053544588c59a1ec1e5eac51.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a019/s000/a019_s000_helmet_color-90dd2f726ef54f7eb34e71c07fd64448.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a019/s000/a019_s000_helmet_normal-1e2302913856490dadce53321131ba3b.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a019/s000/a019_s000_helmet_control_optimized-2f2297e290044ca6b8fb35c3bc25ac33.png"
+    }
+  }
+}
+
+Helmet
+ORBITAL PERIHELION
+The Buffalo A-29 comm suite in the ORBITAL helmet works flawlessly with the ad-hoc and anarchic telecommunication networks found in many colonies.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a046/a046_helmet_high-7cc912da320f4e03ab6d1aaaaf289aec.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a046/s001/a046_s001_helmet_color-791cee849ceb4a319e7ed8b7f889e901.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a046/s000/a046_s000_helmet_normal-da24ed7a035e48a090831134204f69b0.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a046/s001/a046_s001_helmet_control_optimized-ba631d735518428ea93d606b083f98cf.png"
+    }
+  }
+}
+
+Helmet
+PROTECTOR
+PROTECTOR armor uses an oversized fusion power pack, though production models throttle the output to standard levels. 
+
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a032/a032_helmet_high-c5aba1e6f89a44d8a7538eb65a7da3be.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a032/s000/a032_s000_helmet_color-3213e1c1cabc4bee880209649b4d91b6.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a032/s000/a032_s000_helmet_normal-8af6f2bdb62c4165a9d6ec8d23678ee1.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a032/s000/a032_s000_helmet_control_optimized-775eed5a5adc4019b5c54b0049fe2700.png"
+    }
+  }
+}
+
+Helmet
+REAPER
+The maximum potential of the REAPER will only be unlocked after substantial improvements are made to the base Mjolnir techsuit.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a050/a050_helmet_high-80bf370ae8d94a06a26d10b6937fdffc.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a050/s000/a050_s000_helmet_color-25f4dd61ce9a47bab7bafe8fc88145d6.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a050/s000/a050_s000_helmet_normal-b3318523a3ef46c3b87ddf4200309abb.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a050/s000/a050_s000_helmet_control_optimized-3a5637b1e5b74bc9b272de9a2afbba51.png"
+    }
+  }
+}
+
+Helmet
+RECON BDA
+The heavily classified Auspex battlenet uplink in the RECON helmet contains the latest counter-cyberintrusion and firewall routines from ONI.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a008/a008_helmet_high-d0695428a5fc490b9f681ec44ea4a1f6.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a008/s002/a008_s002_helmet_color-a5cc3d5b3a1a42d0b6d21c33c464b2b8.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a008/s000/a008_s000_helmet_normal-32267962202749e5b3bb1771d158ead8.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a008/s002/a008_s002_helmet_control_optimized-e59b525c3aeb4b8bbe2bd3c3a390d733.png"
+    }
+  }
+}
+
+Helmet
+RECRUIT PROVEN
+Decades of combat experience with Mjolnir suits informed the design and electronics hardware architecture of the RECRUIT helmet.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a002/a002_helmet_high-67fb12f4be5946b9844a24fe6f6f5e34.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a002/s003/a002_s003_helmet_color-78d21b585db84750a01be373853ca8b1.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a002/s000/a002_s000_helmet_normal-3808d99da8544393be328a5df691a690.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a002/s003/a002_s003_helmet_control_optimized-dea49a9f8ceb4888b39209ff10ca088b.png"
+    }
+  }
+}
+
+Helmet
+SCOUT DECOY
+Materials Group tested various form factors of the SCOUT helmet before settling on a sleek shape reminiscent of the MARK VI [GEN1] model.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a009/a009_helmet_high-1fadad8eac144b7d919b722d5849cc2e.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a009/s001/a009_s001_helmet_color-a34e4f9fe35b46d9a6acd69a49ea1153.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a009/s000/a009_s000_helmet_normal-5d30182efcf540dba773a45994b3c161.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a009/s001/a009_s001_helmet_control_optimized-57474b81d17f446eb57ceb766d8a4d04.png"
+    }
+  }
+}
+
+Helmet
+SECURITY
+Two watchdog AIs hover at the edges of the SECURITY VISR interface, alert for cyberintrusion attempts and sensor anomalies that could indicate subversion of connected surveillance networks.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a067/a067_helmet_high-980dc072d0aa4e528bdc59a92ca14f0d.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a067/s000/a067_s000_helmet_color-bb948a5b50544827ac3dfe2f5e8a0db9.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a067/s000/a067_s000_helmet_normal-2c6617bb2e4143a587eb5b362aabc9ab.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a067/s000/a067_s000_helmet_control_optimized-331cdfae96cb40468f20c6a9d57e4ece.png"
+    }
+  }
+}
+
+Helmet
+SEEKER HORIZON
+Except for the prototypes, all SEEKER suits are currently located on the UNSC Infinity.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a060/a060_helmet_high-0b7569dd17cb4b6ba28cc7c065d279ab.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a060/s002/a060_s002_helmet_color-ab65f15a62174172bae0433cb6c58146.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a060/s000/a060_s000_helmet_normal-3840b68bab3042fba2d838a9b98c8c3d.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a060/s002/a060_s002_helmet_control_optimized-afb1ff1d213f48b096123b253496625a.png"
+    }
+  }
+}
+
+Helmet
+SOLDIER DOGFACE
+Low power consumption, comfort, and obsessive attention paid to ergonomics distinguish the SOLDIER helmet design from other Mjolnir patterns.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a005/a005_helmet_high-00d25b3cbaab4db98b0f1dc3f8927341.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a005/s003/a005_s003_helmet_color-76f45df255ea4fd9b44b9b213fa328bf.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a005/s000/a005_s000_helmet_normal-1f3a85c27fd84999b45ae51ccf57113a.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a005/s003/a005_s003_helmet_control_optimized-569f748145ab45f3b7c6d388f8ae12c8.png"
+    }
+  }
+}
+
+Helmet
+STALKER
+Large volumes of Jiralhanae equipment were left behind after the Prophet of Truth's defeat. The STALKER helmet was the product of efforts to repurpose their brutal implements of war.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a023/a023_helmet_high-719dcd52bc234b3694b8efb3d52bced6.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a023/s000/a023_s000_helmet_color-6c40980388134c6ca6eeb9c9557fd07f.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a023/s000/a023_s000_helmet_normal-657652e8e6ec49fd854a89d45b7f18f3.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a023/s000/a023_s000_helmet_control_optimized-2e0edf7c7b204a0097c1e67794fb2e02.png"
+    }
+  }
+}
+
+Helmet
+STRIDER
+The STRIDER helmet contains heavy duty power connectors and data ports for external attachments, though GEN2 specifications did not require it.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a038/a038_helmet_high-9daad6e2fc0648da961375b600f687f2.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a038/s000/a038_s000_helmet_color-64c3636350744246a0e5566416e6b7b8.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a038/s000/a038_s000_helmet_normal-c22bf3a1e07f484fafcc9e4af97f953b.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a038/s000/a038_s000_helmet_control_optimized-525f20efeffb4471a937a3948217bbf0.png"
+    }
+  }
+}
+
+Helmet
+TEISHIN SHUURAI
+TEISHIN heads-up displays take full advantage of VISR filters, augmented reality overlays, and cognition enhancing software to present a clear, concise, and organized view of the battlefield.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a047/a047_helmet_high-efb0ec63ed0743bcbea1ffa0868ebd93.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a047/s001/a047_s001_helmet_color-0d02d675875040f6b5d9eb6ae6cb4be9.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a047/s000/a047_s000_helmet_normal-3ba6e6a3f6ba4aa2a357f78b86696736.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a047/s001/a047_s001_helmet_control_optimized-3b61003e10974b59a80c074fe54ed53e.png"
+    }
+  }
+}
+
+Helmet
+TRACKER
+ONI field operatives make use of several optional peripherals that augment the TRACKER suit's analytical capabilities.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a025/a025_helmet_high-b90f95f682274c3b9e36fe3e958016ef.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a025/s000/a025_s000_helmet_color-c5d15a07c4834a8d9c7c5ca78028c0c4.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a025/s000/a025_s000_helmet_normal-618f51ef7c614a588f71baafc97b2de0.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a025/s000/a025_s000_helmet_control_optimized-24423de2ecfa46a6937f1701bd64350f.png"
+    }
+  }
+}
+
+Helmet
+VECTOR SEQUENCE
+VECTOR helmets feature a Covenant dataport and dummy plug, allowing the user to commune with artifact-seeking Luminaries.                                                                                                                                                                                                                                      
+
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a065/a065_helmet_high-49095f34ffb94fd69f7014a9beb0d265.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a065/s002/a065_s002_helmet_color-f14b5ce8f80f4e479e171ce9a26eddd6.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a065/s000/a065_s000_helmet_normal-55a9028e1dbb48fab34fe2bf81bbd465.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a065/s002/a065_s002_helmet_control_optimized-36065da951974fb3a6abcd314876653d.png"
+    }
+  }
+}
+
+Helmet
+VIPER STRIKE
+Spartans with extensive experience on the VIPER variant have displayed both statistically significant increases in aggression levels and measurable improvements in reaction times.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a059/a059_helmet_high-b19b31e892884743b7d96fcd9f1657be.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a059/s001/a059_s001_helmet_color-9ae9a9a92b1b4ba09d5c08ba7878abfd.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a059/s000/a059_s000_helmet_normal-7e1cc922c23f4dd49b0c4389cff3fc5b.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a059/s001/a059_s001_helmet_control_optimized-7f9f01bb361047a7aab8963dfa704e63.png"
+    }
+  }
+}
+
+Helmet
+WAR MASTER
+The WAR MASTER's neural interface was intentionally throttled after early testing showed inexperienced Spartans would dangerously overextend themselves in combat due to the euphoric side-effects.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a044/a044_helmet_high-4857f425d28d4b5eb756df518a06e649.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a044/s000/a044_s000_helmet_color-dadddcb35ab0413fbbf994f6f098763f.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a044/s000/a044_s000_helmet_normal-b8097fa10c9c4b0088b58297bd1fed44.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a044/s000/a044_s000_helmet_control_optimized-47e1b201e7e14fc0902956d939faa937.png"
+    }
+  }
+}
+
+Helmet
+AIR ASSAULT SPECIALIST
+The AIR ASSAULT helmet's long-range comm system makes it popular with Spartan fireteam leaders, but Naphtali also markets this helmet to Army special forces.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a004/a004_helmet_high-a121ffbe23b442d9853ff0105f82c59b.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a004/s003/a004_s003_helmet_color-7b2c60abfe604d4fbe884b32bbeb194b.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a004/s000/a004_s000_helmet_normal-a390a909a54d4762be85de407f1786c9.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a004/s003/a004_s003_helmet_control_optimized-37939a2805734b218340032718387403.png"
+    }
+  }
+}
+
+Helmet
+ARGONAUT NESTOR
+ARGONAUT helmets can accept next-generation Block 10 Neural Interface Controller hardware once it clears UNSC Ordnance Committee approval loops.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a066/a066_helmet_high-da332802bcb548119e9a1221387a5860.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a066/s001/a066_s001_helmet_color-92136d862c8146d9be4b372fc51a96c5.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a066/s000/a066_s000_helmet_normal-b6c9f224acbb4db7b09910f5cc7a9ead.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a066/s001/a066_s001_helmet_control_optimized-ed0940269f80411f918c72c005f58c8a.png"
+    }
+  }
+}
+
+Helmet
+ATHLON CHAMPION
+CHAMPION armor requires a full team of technicians on hand to repair and retune the suit between each War Games match.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a000/a000_helmet_high-09effcd565554c73b7108c7a4a595908.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-rendermet/spartan_mp_a101_s000_helmet_color-ae13c890de2f48c8ac779b298b81fed7.png",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/08-06-15/body/a000/s001/a000_s001_helmet_normal-b3072e55b9e4403799a27b62219909b3.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-rendermp_a101_s000_helmet_control_optimized-fa6553bf0cb042d4af3e2bfac543e740.png"
+    }
+  }
+}
+
+Helmet
+BUCCANEER ILLYRI
+BUCCANEER helmets use off-the-shelf components, but the casing is custom made. The HUD is also compatible with military VISRs, employing ingenious hacks to bypass licensing locks.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a083/a083_helmet_high-6412e075568e403cac3043b0d048e0cf.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a083/s002/a083_s002_helmet_color-ec9bb549215b4f71bc4b20d685bd3081.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a083/s000/a083_s000_helmet_normal-fd14092afe604a8c93658c3110846e0e.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a083/s002/a083_s002_helmet_control_optimized-223a82c4481b4e9796494233670f76a8.png"
+    }
+  }
+}
+
+Helmet
+COMMANDO ARIUS
+Naphtali greatly benefited from its acquisition of Chalybs' original COMMANDO designs, which allowed them to bring their GEN2 Mjolnir armor to market several months ahead of schedule.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a030/a030_helmet_high-41421b66e3d14fb0a02415c91537cf22.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a030/s002/a030_s002_helmet_color-67359f9c2a70455d883c581cfe7649da.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a030/s000/a030_s000_helmet_normal-5c84087748f34140b20e92c01c682ea5.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a030/s002/a030_s002_helmet_control_optimized-fd21c74ca7f247e188e2dfd4adca0c19.png"
+    }
+  }
+}
+
+Helmet
+DEADEYE
+Every DEADEYE helmet incorporates a small piece of alloy from one of the ships now resting in the wreckage above Tribute's poles.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a035/a035_helmet_high-396e0592f1884c8ab583668438572913.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a035/s000/a035_s000_helmet_color-952d75fce03a4f108c880a5fd090ffca.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a035/s000/a035_s000_helmet_normal-d6ff8f4c2c75479caab3cb85e8e70547.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a035/s000/a035_s000_helmet_control_optimized-1a5acfcf248e45ca9f315df3953f75d5.png"
+    }
+  }
+}
+
+Helmet
+DEFENDER REDOUBT
+It has not escaped notice that the observation and communication features of the DEFENDER helmet are well-suited for combat actuation in urban environments.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a007/a007_helmet_high-779cc61060d7469b9ef86da423e53f31.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a007/s002/a007_s002_helmet_color-4ae4792c0eb541e891b11dd1767773a5.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a007/s000/a007_s000_helmet_normal-40d75cbb0b92414db98c3fa2ac4a94a7.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a007/s002/a007_s002_helmet_control_optimized-a86c49ad28fd4c5898ffbdf4dc31ff50.png"
+    }
+  }
+}
+
+Helmet
+EVA LEONOV
+The EVA helmet can be paired with all milspec hardshell and mechanical counterpressure suits.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a045/a045_helmet_high-15153c0b99e3487299acce7993646931.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a045/s004/a045_s004_helmet_color-e5254683e3f34e6581e5751adab1c2e4.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a045/s000/a045_s000_helmet_normal-659f8077787a46fea8b9f68e421c217d.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a045/s004/a045_s004_helmet_control_optimized-c7f2a996200d4eb89bf46f4873362d81.png"
+    }
+  }
+}
+
+Helmet
+EVA ZHIGANG
+The EVA helmet can be paired with all milspec hardshell and mechanical counterpressure suits.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a045/a045_helmet_high-15153c0b99e3487299acce7993646931.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a045/s003/a045_s003_helmet_color-df30531a7213421c8be392bfa806d837.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a045/s000/a045_s000_helmet_normal-659f8077787a46fea8b9f68e421c217d.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a045/s003/a045_s003_helmet_control_optimized-040b2375400548748eae1924809455ad.png"
+    }
+  }
+}
+
+Helmet
+FOTUS
+The FOTUS helmet's torque-node extension represents a breakthrough in replicating Forerunner "baffler" sensor-distortion systems.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a039/a039_helmet_high-f238f789d2094227966ec54cc04668cd.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a039/s000/a039_s000_helmet_color-d62cd5ad97d34a06aace029f1c1c0ffe.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a039/s000/a039_s000_helmet_normal-f9dab49170b24ef6939a84d401e79366.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a039/s000/a039_s000_helmet_control_optimized-3bec6520b3d74637b7542f378bd4bd3a.png"
+    }
+  }
+}
+
+Helmet
+GUNGNIR
+The GUNGNIR target acquisition and tracking system has been adapted into various UNSC weapon systems.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a029/a029_helmet_high-0cf26a165bff41e39df27ee12f0bc84f.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a029/s000/a029_s000_helmet_color-f32723eaea7b463da0ee3c14481e1208.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a029/s000/a029_s000_helmet_normal-c911a54103f040d8b3ac958bce3c900d.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a029/s000/a029_s000_helmet_control_optimized-d3efcff6026d4598ab9971aec122fb41.png"
+    }
+  }
+}
+
+Helmet
+HELLCAT ONSLAUGHT
+Tests with Spartan-II veterans show near-perfect synchronization with HELLCAT armor, but compatible Spartan-IV operators require an acclimatization period and tweaks to their augmentation maintenance before deployment. 
+
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a084/a084_helmet_high-39aacb8407ad421391ed143284ec33de.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a084/s002/a084_s002_helmet_color-0bdcb0633c97420bb1d5b4e507148c9f.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a084/s000/a084_s000_helmet_normal-323907f4771341a7b2d31c025a39ffab.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a084/s002/a084_s002_helmet_control_optimized-f311ff4e89b34b2ca432e2f48bbbad56.png"
+    }
+  }
+}
+
+Helmet
+MAKO DARKWATER
+Though offered as a complete GEN2 Mjolnir system for the Spartan branch, adoption of the MAKO helmet by Army combat divers has proven to be more profitable.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a064/a064_helmet_high-e2a8fb1fd31342c98a9fbfbe6eac2364.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a064/s002/a064_s002_helmet_color-b5ea48be6dad4a72a8ea81979dae53ab.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a064/s001/a064_s001_helmet_normal-3a3380b38dca4827a1c0597724e69766.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a064/s002/a064_s002_helmet_control_optimized-bb58803abfa14aee9c5f70a4887b5f85.png"
+    }
+  }
+}
+
+Helmet
+MARK VI
+Key features of the iconic MARK VI helmet design have been retained in newer permutations.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a033/a033_helmet_high-e6a9e4da822743b8b51a63d897bbdc8b.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a033/s000/a033_s000_helmet_color-9c6410d9a6b147ca94edfe64b78d3b1a.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a033/s000/a033_s000_helmet_normal-a9bb3051e9474594bb348ba12595e012.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a033/s000/a033_s000_helmet_control_optimized-7dfb2f5fd1bb404884b4a15861a8dc61.png"
+    }
+  }
+}
+
+Helmet
+MARK VI SATRAP
+Key features of the iconic MARK VI helmet design have been retained in newer permutations.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a033/a033_helmet_high-e6a9e4da822743b8b51a63d897bbdc8b.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a033/s001/a033_s001_helmet_color-9a9ba3821253461bad6520daabb89676.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a033/s000/a033_s000_helmet_normal-a9bb3051e9474594bb348ba12595e012.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a033/s001/a033_s001_helmet_control_optimized-27a4e3014b01463b9a8bf04be64084a1.png"
+    }
+  }
+}
+
+Helmet
+MAVERICK
+The custom operating system for the MAVERICK is efficiently coded and highly mutable; few realize that it is an iteration of software that Chalybs developed for their Covenant War-era Mjolnir suits.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a081/a081_helmet_high-15d4df058f5b476cb542af74b5065aec.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a081/s000/a081_s000_helmet_color-ce853fe4bbe14f5ab9877cbf9172a4fd.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a081/s000/a081_s000_helmet_normal-522c9c12907e41dfa3d1c41502e267b0.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a081/s000/a081_s000_helmet_control_optimized-9732cff61ef14c96b63b12edb09c1bf0.png"
+    }
+  }
+}
+
+Helmet
+NOBLE VALOR
+A significant update of the MK.V/K design, NOBLE helmets feature hardened battlenet uplinks and Chalybs' latest kinetic mesh networking admin tools.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a068/a068_helmet_high-0b5e6abbf2cd47ffbd723aa3b03a4236.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a068/s001/a068_s001_helmet_color-02e48a72aec64545a03441945bcef2bf.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a068/s000/a068_s000_helmet_normal-d7868525a5a341eaad822bdf95b1a348.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a068/s001/a068_s001_helmet_control_optimized-5ad4e57c63f849ffa36cf2e935bde3b1.png"
+    }
+  }
+}
+
+Helmet
+NOMAD UNCHAINED
+The life support components of the NOMAD can handle a much wider range of atmospheric compositions and temperature regimes than is typical for Mjolnir armors.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a051/a051_helmet_high-3a12750900644b9dbbc2ee6733f05056.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a051/s002/a051_s002_helmet_color-f6e1858ac95c46c38ae5966183011bcb.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a051/s000/a051_s000_helmet_normal-aebf1d39ec344f31a7d1107f66a116d4.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a051/s002/a051_s002_helmet_control_optimized-b39e66931ef94bcd9e34337e023291b6.png"
+    }
+  }
+}
+
+Helmet
+ORBITAL APHELION
+The Buffalo A-29 comm suite in the ORBITAL helmet works flawlessly with the ad-hoc and anarchic telecommunication networks found in many colonies.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a046/a046_helmet_high-7cc912da320f4e03ab6d1aaaaf289aec.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a046/s002/a046_s002_helmet_color-0b75655106754edbb7eec787566303fb.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a046/s000/a046_s000_helmet_normal-da24ed7a035e48a090831134204f69b0.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a046/s002/a046_s002_helmet_control_optimized-3593facc6a4945daa3606df896deeaad.png"
+    }
+  }
+}
+
+Helmet
+RANGER
+The RANGER helmet is utilitarian and well designed, though periodic issues with VISR compatibility bedevils maintenance technicians.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a031/a031_helmet_high-b8341f52c5504d53b9ee2af9c0f5fd54.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a031/s000/a031_s000_helmet_color-ae64f7a0edc34b2a8619c50c112dbff4.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a031/s000/a031_s000_helmet_normal-535e9ba804c8408e813da973f9e175bd.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a031/s000/a031_s000_helmet_control_optimized-8e16548c9a734e1bae061f9178fe6e9e.png"
+    }
+  }
+}
+
+Helmet
+REAPER GRIM
+The maximum potential of the REAPER will only be unlocked after substantial improvements are made to the base Mjolnir techsuit.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a050/a050_helmet_high-80bf370ae8d94a06a26d10b6937fdffc.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a050/s001/a050_s001_helmet_color-14a15d2c84f24bea868ab7ea01efb159.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a050/s000/a050_s000_helmet_normal-b3318523a3ef46c3b87ddf4200309abb.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a050/s001/a050_s001_helmet_control_optimized-716351163fba426281a343507677f63f.png"
+    }
+  }
+}
+
+Helmet
+RECON ITG
+The heavily classified Auspex battlenet uplink in the RECON helmet contains the latest counter-cyberintrusion and firewall routines from ONI.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a008/a008_helmet_high-d0695428a5fc490b9f681ec44ea4a1f6.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a008/s003/a008_s003_helmet_color-75d0299d7d3340a1b3e31df0bba8c0a0.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a008/s000/a008_s000_helmet_normal-32267962202749e5b3bb1771d158ead8.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a008/s003/a008_s003_helmet_control_optimized-5b9e7b83777f45ed965fb4957457fcae.png"
+    }
+  }
+}
+
+Helmet
+ROGUE
+Unknown to most, ROGUE suits contain hardware cutouts that can remove or ignore several layers of safety interlocks and threat management limiters in the Mjolnir BIOS.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a024/a024_helmet_high-0e4a0aca11514a3cbcd6b721781630f7.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a024/s000/a024_s000_helmet_color-3c8c127f9fad4b2c907a1a73db3e610f.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a024/s000/a024_s000_helmet_normal-d28deeefc6fc49be90d9d13e07f02083.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a024/s000/a024_s000_helmet_control_optimized-41036ea377cd4f87959eb84846491ea7.png"
+    }
+  }
+}
+
+Helmet
+SCANNER
+The SCANNER helmet features a number of sensor capabilities and user-adjustable settings that are not yet compatible with standard VISR hardware
+
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a037/a037_helmet_high-46d926139c02415fbb75551cb4cfaea9.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a037/s000/a037_s000_helmet_color-0335ab11e9984ff7b7e55eb545d5ff49.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a037/s000/a037_s000_helmet_normal-35ca46bd6a5d4d01b757c27bb12d279a.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a037/s000/a037_s000_helmet_control_optimized-404aabf425474dc6b466180b1bf779ab.png"
+    }
+  }
+}
+
+Helmet
+SCOUT OBSERVER
+Materials Group tested various form factors of the SCOUT helmet before settling on a sleek shape reminiscent of the MARK VI [GEN1] model.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a009/a009_helmet_high-1fadad8eac144b7d919b722d5849cc2e.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a009/s002/a009_s002_helmet_color-e7a87e636580493e9e0a3f3290b12b54.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a009/s000/a009_s000_helmet_normal-5d30182efcf540dba773a45994b3c161.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a009/s002/a009_s002_helmet_control_optimized-de83afda531c4422916c832e63e7ac9e.png"
+    }
+  }
+}
+
+Helmet
+SECURITY OPPRESSOR
+Two watchdog AIs hover at the edges of the SECURITY VISR interface, alert for cyberintrusion attempts and sensor anomalies that could indicate subversion of connected surveillance networks.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a067/a067_helmet_high-980dc072d0aa4e528bdc59a92ca14f0d.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a067/s001/a067_s001_helmet_color-74554c0b7b8c468f88f8bac8d3f30da7.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a067/s000/a067_s000_helmet_normal-2c6617bb2e4143a587eb5b362aabc9ab.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a067/s001/a067_s001_helmet_control_optimized-c8bd8bb0727e42569303a0e27fc1588a.png"
+    }
+  }
+}
+
+Helmet
+SECURITY WATCHDOG
+Two watchdog AIs hover at the edges of the SECURITY VISR interface, alert for cyberintrusion attempts and sensor anomalies that could indicate subversion of connected surveillance networks.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a067/a067_helmet_high-980dc072d0aa4e528bdc59a92ca14f0d.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a067/s002/a067_s002_helmet_color-00ec4e5acc51455ebc0cbf7e3647d64c.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a067/s000/a067_s000_helmet_normal-2c6617bb2e4143a587eb5b362aabc9ab.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a067/s002/a067_s002_helmet_control_optimized-5c50ae9a4fce4ecab495121b4b1061e8.png"
+    }
+  }
+}
+
+Helmet
+TEISHIN RAIKOU
+TEISHIN heads-up displays take full advantage of VISR filters, augmented reality overlays, and cognition enhancing software to present a clear, concise, and organized view of the battlefield.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a047/a047_helmet_high-efb0ec63ed0743bcbea1ffa0868ebd93.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a047/s002/a047_s002_helmet_color-b1cd56c3a5ca44c083e504ee7ef029de.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a047/s000/a047_s000_helmet_normal-3ba6e6a3f6ba4aa2a357f78b86696736.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a047/s002/a047_s002_helmet_control_optimized-b10ca3c1a85b46228651e435c32ad6b9.png"
+    }
+  }
+}
+
+Helmet
+VENATOR
+The latest VENATOR firmware incorporates a generalization of predictive targeting algorithms originally created to assist new Spartans in close-quarters combat.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a028/a028_helmet_high-e22470dabcb84255acb64b3c422adb38.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a028/s000/a028_s000_helmet_color-282b042b42084df0a403c3762e1e4b1c.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a028/s000/a028_s000_helmet_normal-2f48022d252346798e2a2a545ab01fb3.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a028/s000/a028_s000_helmet_control_optimized-e5c156ab67b544d492f5a112b22d17d9.png"
+    }
+  }
+}
+
+Helmet
+VENATOR RETIARUS
+The latest VENATOR firmware incorporates a generalization of predictive targeting algorithms originally created to assist new Spartans in close-quarters combat.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a028/a028_helmet_high-e22470dabcb84255acb64b3c422adb38.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a028/s001/a028_s001_helmet_color-c82a65b14029468184d7ace5e24c1a25.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a028/s000/a028_s000_helmet_normal-2f48022d252346798e2a2a545ab01fb3.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a028/s001/a028_s001_helmet_control_optimized-29d6a3cc3f2e4a409b87369ee58d1231.png"
+    }
+  }
+}
+
+Helmet
+VIPER VENOM
+Spartans with extensive experience on the VIPER variant have displayed both statistically significant increases in aggression levels and measurable improvements in reaction times.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a059/a059_helmet_high-b19b31e892884743b7d96fcd9f1657be.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a059/s002/a059_s002_helmet_color-7e37abdd3f594f38a5569e9986d2b9e9.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a059/s000/a059_s000_helmet_normal-7e1cc922c23f4dd49b0c4389cff3fc5b.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a059/s002/a059_s002_helmet_control_optimized-92d42e7804fd402696c16d3fdedd1e9a.png"
+    }
+  }
+}
+
+Helmet
+WAR MASTER TIBERIAN
+The WAR MASTER's neural interface was intentionally throttled after early testing showed inexperienced Spartans would dangerously overextend themselves in combat due to the euphoric side-effects.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a044/a044_helmet_high-4857f425d28d4b5eb756df518a06e649.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a044/s001/a044_s001_helmet_color-9f5e8132471f4d6ab6d9e9ff4c5a7223.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a044/s000/a044_s000_helmet_normal-b8097fa10c9c4b0088b58297bd1fed44.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a044/s001/a044_s001_helmet_control_optimized-d2f55394665642949e7417e2facf9381.png"
+    }
+  }
+}
+
+Helmet
+WETWORK
+The linear sensor on WETWORK helmets is a standard VISR-compatible element on most suits; Delta-Six and other specialists use esoteric systems more valuable than the suit and Spartan themselves.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a018/a018_helmet_high-fecb5dbe00c84b76accb7fb91fdb1814.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a018/s000/a018_s000_helmet_color-d6106a34f00f494c8347b27ef1ab0c76.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a018/s000/a018_s000_helmet_normal-b953e62b28eb4f17b5bf74323aa92302.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a018/s000/a018_s000_helmet_control_optimized-b85d1d29f0f442e6a4a21330813a1fd6.png"
+    }
+  }
+}
+
+Helmet
+ARGONAUT IDMON
+ARGONAUT helmets can accept next-generation Block 10 Neural Interface Controller hardware once it clears UNSC Ordnance Committee approval loops.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a066/a066_helmet_high-da332802bcb548119e9a1221387a5860.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a066/s002/a066_s002_helmet_color-3c4827e1c043416caf7720c583146992.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a066/s000/a066_s000_helmet_normal-b6c9f224acbb4db7b09910f5cc7a9ead.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a066/s002/a066_s002_helmet_control_optimized-d90ce27b92f047d38f8bfc6a6b1a42de.png"
+    }
+  }
+}
+
+Helmet
+COMMANDO MATRIX
+Naphtali greatly benefited from its acquisition of Chalybs' original COMMANDO designs, which allowed them to bring their GEN2 Mjolnir armor to market several months ahead of schedule.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a030/a030_helmet_high-41421b66e3d14fb0a02415c91537cf22.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a030/s003/a030_s003_helmet_color-744746d1aa5b4fdd83d715515a66b2b3.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a030/s000/a030_s000_helmet_normal-5c84087748f34140b20e92c01c682ea5.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a030/s003/a030_s003_helmet_control_optimized-1ba5b42be30441ba982fec9458df23f0.png"
+    }
+  }
+}
+
+Helmet
+DEFENDER FORTRESS
+It has not escaped notice that the observation and communication features of the DEFENDER helmet are well-suited for combat actuation in urban environments.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a007/a007_helmet_high-779cc61060d7469b9ef86da423e53f31.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a007/s003/a007_s003_helmet_color-73c91bdd1cdf48bc9b7eaa5f87ac946c.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a007/s000/a007_s000_helmet_normal-40d75cbb0b92414db98c3fa2ac4a94a7.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a007/s003/a007_s003_helmet_control_optimized-983b06aca55f4617bddcb38353110112.png"
+    }
+  }
+}
+
+Helmet
+FOTUS CHILLROSE
+The FOTUS helmet's torque-node extension represents a breakthrough in replicating Forerunner "baffler" sensor-distortion systems.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a039/a039_helmet_high-f238f789d2094227966ec54cc04668cd.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a039/s002/a039_s002_helmet_color-6bbab736a5c144f792e2a0f8b231af7e.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a039/s000/a039_s000_helmet_normal-f9dab49170b24ef6939a84d401e79366.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a039/s002/a039_s002_helmet_control_optimized-e4c39e0c836242e2bdc5099fdfbf1e19.png"
+    }
+  }
+}
+
+Helmet
+FOTUS SYNCHRONIZE
+The FOTUS helmet's torque-node extension represents a breakthrough in replicating Forerunner "baffler" sensor-distortion systems.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a039/a039_helmet_high-f238f789d2094227966ec54cc04668cd.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a039/s001/a039_s001_helmet_color-f742fb75073f4b3aa9ac7bfcf4fc5b02.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a039/s000/a039_s000_helmet_normal-f9dab49170b24ef6939a84d401e79366.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a039/s001/a039_s001_helmet_control_optimized-304a423d80594173961d060d1782fc7a.png"
+    }
+  }
+}
+
+Helmet
+LOCUS
+The LOCUS' passive cyberintrusion package and battlenet cache allows the user to stay aware of the strategic situation while remaining invisible to any hackers in the network.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a036/a036_helmet_high-563b837402b24ca2a0793d7f09d33cca.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a036/s000/a036_s000_helmet_color-299d7afeecc34d3ba54f012ddab8f52b.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a036/s000/a036_s000_helmet_normal-873164bb9899473fbc09f860d94d5608.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a036/s000/a036_s000_helmet_control_optimized-13e52e3f161a48f68703119be4edee7d.png"
+    }
+  }
+}
+
+Helmet
+MARK VI PRIMUS
+Key features of the iconic MARK VI helmet design have been retained in newer permutations.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a033/a033_helmet_high-e6a9e4da822743b8b51a63d897bbdc8b.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a033/s002/a033_s002_helmet_color-e61d293e772f4e5c87af4a3066ce3699.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a033/s000/a033_s000_helmet_normal-a9bb3051e9474594bb348ba12595e012.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a033/s002/a033_s002_helmet_control_optimized-81ac53e70513400581c7d028cafa1a5f.png"
+    }
+  }
+}
+
+Helmet
+MARK VI REGENT
+Key features of the iconic MARK VI helmet design have been retained in newer permutations.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a033/a033_helmet_high-e6a9e4da822743b8b51a63d897bbdc8b.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a033/s003/a033_s003_helmet_color-b939441a0a2f4c9c96449d143f279275.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a033/s000/a033_s000_helmet_normal-a9bb3051e9474594bb348ba12595e012.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a033/s003/a033_s003_helmet_control_optimized-487372bf04f240168b95dd44b022882e.png"
+    }
+  }
+}
+
+Helmet
+NOBLE HONOR
+A significant update of the MK.V/K design, NOBLE helmets feature hardened battlenet uplinks and Chalybs' latest kinetic mesh networking admin tools.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a068/a068_helmet_high-0b5e6abbf2cd47ffbd723aa3b03a4236.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a068/s002/a068_s002_helmet_color-220d081557e74fa38f5bba6bbf65ef6b.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a068/s000/a068_s000_helmet_normal-d7868525a5a341eaad822bdf95b1a348.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a068/s002/a068_s002_helmet_control_optimized-558c0178ffb049919e31361bfbb205f1.png"
+    }
+  }
+}
+
+Helmet
+ORBITAL EQUINOX
+The Buffalo A-29 comm suite in the ORBITAL helmet works flawlessly with the ad-hoc and anarchic telecommunication networks found in many colonies.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a046/a046_helmet_high-7cc912da320f4e03ab6d1aaaaf289aec.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a046/s003/a046_s003_helmet_color-411ea05cfd894071a1f2dc682a4c903d.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a046/s000/a046_s000_helmet_normal-da24ed7a035e48a090831134204f69b0.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a046/s003/a046_s003_helmet_control_optimized-cb057930158b486ca35c3906c826ef0e.png"
+    }
+  }
+}
+
+Helmet
+RAIDER
+RAIDER helmets were crafted to be physically intimidating, though its effectiveness is disputed.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a034/a034_helmet_high-6bae532388e4478ab6b98545867cb06d.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a034/s000/a034_s000_helmet_color-a5f1c9b63c7d4c89838f948e2c21cd78.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a034/s000/a034_s000_helmet_normal-d6a5f8da0fc546dc88dd062635127c6a.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a034/s000/a034_s000_helmet_control_optimized-22020296457d47a8a5fab443eec575e0.png"
+    }
+  }
+}
+
+Helmet
+REAPER MORTICIAN
+The maximum potential of the REAPER will only be unlocked after substantial improvements are made to the base Mjolnir techsuit.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a050/a050_helmet_high-80bf370ae8d94a06a26d10b6937fdffc.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a050/s002/a050_s002_helmet_color-b9f47d047f84431799d63797f4e86203.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a050/s000/a050_s000_helmet_normal-b3318523a3ef46c3b87ddf4200309abb.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a050/s002/a050_s002_helmet_control_optimized-e9facd0c80a04302a51f9538262a1651.png"
+    }
+  }
+}
+
+Helmet
+SCOUT OUTRIDER
+Materials Group tested various form factors of the SCOUT helmet before settling on a sleek shape reminiscent of the MARK VI [GEN1] model.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a009/a009_helmet_high-1fadad8eac144b7d919b722d5849cc2e.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a009/s003/a009_s003_helmet_color-2a6d45e6ed974c40ab7a84ab7e1d8370.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a009/s000/a009_s000_helmet_normal-5d30182efcf540dba773a45994b3c161.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a009/s003/a009_s003_helmet_control_optimized-992b1bd0241d4701b6f1ba3a1263412a.png"
+    }
+  }
+}
+
+Helmet
+VENATOR CESTUS
+The latest VENATOR firmware incorporates a generalization of predictive targeting algorithms originally created to assist new Spartans in close-quarters combat.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a028/a028_helmet_high-e22470dabcb84255acb64b3c422adb38.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a028/s003/a028_s003_helmet_color-31b14774281247ac8fd66f6c40682f74.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a028/s000/a028_s000_helmet_normal-2f48022d252346798e2a2a545ab01fb3.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a028/s003/a028_s003_helmet_control_optimized-df2d1a35c3294dd1a4a99d2df48423f1.png"
+    }
+  }
+}
+
+Helmet
+VENATOR THRAEX
+The latest VENATOR firmware incorporates a generalization of predictive targeting algorithms originally created to assist new Spartans in close-quarters combat.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a028/a028_helmet_high-e22470dabcb84255acb64b3c422adb38.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a028/s002/a028_s002_helmet_color-0b80b5a7858449fda2a41204904e6d68.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a028/s000/a028_s000_helmet_normal-2f48022d252346798e2a2a545ab01fb3.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a028/s002/a028_s002_helmet_control_optimized-a825f2c6730e41d7b1bd0b5cd50764d2.png"
+    }
+  }
+}
+
+Helmet
+VOID DANCER
+The VOID DANCER does not meet all Mjolnir standards, sacrificing compatibility so that Emerson Tactical Systems can integrate its own black-box components.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a082/a082_helmet_high-eb2a3c5643914cd2b60e329c047b4c6c.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a082/s000/a082_s000_helmet_color-8491a2a8c2624cb2b05d1cadb5076f5b.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a082/s000/a082_s000_helmet_normal-7b3128d1e13d4b8db30352e88d656caf.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a082/s000/a082_s000_helmet_control_optimized-ff31ad0ddfe04112ba6b33abde75fae8.png"
+    }
+  }
+}
+
+Helmet
+WAR MASTER AUGUSTAN
+The WAR MASTER's neural interface was intentionally throttled after early testing showed inexperienced Spartans would dangerously overextend themselves in combat due to the euphoric side-effects.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a044/a044_helmet_high-4857f425d28d4b5eb756df518a06e649.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a044/s002/a044_s002_helmet_color-4cbbca7e848a456eb44880b009275f37.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a044/s000/a044_s000_helmet_normal-b8097fa10c9c4b0088b58297bd1fed44.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a044/s002/a044_s002_helmet_control_optimized-f070e26756bb4d81bfc1b0055fe9d48b.png"
+    }
+  }
+}
+
+Helmet
+WAR MASTER SCIPIO
+The WAR MASTER's neural interface was intentionally throttled after early testing showed inexperienced Spartans would dangerously overextend themselves in combat due to the euphoric side-effects.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a044/a044_helmet_high-4857f425d28d4b5eb756df518a06e649.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a044/s003/a044_s003_helmet_color-3dd4a80cdf35407e99edb8239f38a00b.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a044/s000/a044_s000_helmet_normal-b8097fa10c9c4b0088b58297bd1fed44.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a044/s003/a044_s003_helmet_control_optimized-c7cf7672ba2248ba9f7a9bd0f4a2fc08.png"
+    }
+  }
+}
+
+Helmet
+ARGUS 
+ARGUS helmets feature the most advanced human-centric information fusion systems ever placed in a mobile combat platform.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a042/a042_helmet_high-1e34745aa33d4fb3a55574a212512545.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a042/s000/a042_s000_helmet_color-29488c04b52940ba9c7b198e8c6ae7f9.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a042/s000/a042_s000_helmet_normal-5d8d720ddcf04ad79d71456b5c2b88c1.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a042/s000/a042_s000_helmet_control_optimized-b79d1274a83f4b18898823a0a1498a1b.png"
+    }
+  }
+}
+
+Helmet
+ARGUS ARESTOR
+ARGUS helmets feature the most advanced human-centric information fusion systems ever placed in a mobile combat platform.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a042/a042_helmet_high-1e34745aa33d4fb3a55574a212512545.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a042/s001/a042_s001_helmet_color-a5902db5e176476d9baca774061e2ee9.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a042/s000/a042_s000_helmet_normal-5d8d720ddcf04ad79d71456b5c2b88c1.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a042/s001/a042_s001_helmet_control_optimized-2db57bd0eafb493cb075bd8869a4db1a.png"
+    }
+  }
+}
+
+Helmet
+CENTURION
+The CENTURION's C4I2SR technology combined with Spartan warfighting talent is a game-changer for UNSC operational planning and battlespace shaping doctrine.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a013/a013_helmet_high-806fff12c74e46e984ca8a5a57f618ed.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a013/s000/a013_s000_helmet_color-63fd187ea59f43b9b4141cfd2d0d39ab.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a013/s000/a013_s000_helmet_normal-95414bf2dd45441d83ef638e22f707c6.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a013/s000/a013_s000_helmet_control_optimized-45da1d86d5d942bbb1eb5020bc071ee8.png"
+    }
+  }
+}
+
+Helmet
+CENTURION IRONSIDE
+The CENTURION's C4I2SR technology combined with Spartan warfighting talent is a game-changer for UNSC operational planning and battlespace shaping doctrine.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a013/a013_helmet_high-806fff12c74e46e984ca8a5a57f618ed.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a013/s001/a013_s001_helmet_color-928df1dce46e42f4bc3dc05cf6189582.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a013/s000/a013_s000_helmet_normal-95414bf2dd45441d83ef638e22f707c6.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a013/s001/a013_s001_helmet_control_optimized-b9d9fe7e4ff341ff9d15fd1a68da0dde.png"
+    }
+  }
+}
+
+Helmet
+COPPERHEAD 
+The origin of COPPERHEAD's "militarized anthropology" decision support system can be traced to innovative tools crafted for use by Colonial Administration Authority field teams working during the darkest days of the Insurrection.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a041/a041_helmet_high-e257e051bc524aeeb5a55dc6de33f6ed.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a041/s000/a041_s000_helmet_color-e4db5ae91d0e46bebb62caca8ef53dbc.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a041/s000/a041_s000_helmet_normal-1072da2b0a544597b2db606fbf770f63.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a041/s000/a041_s000_helmet_control_optimized-b9d0b402ae864b86a2567cbb6fc7c3f6.png"
+    }
+  }
+}
+
+Helmet
+COPPERHEAD FANGS
+The origin of COPPERHEAD's "militarized anthropology" decision support system can be traced to innovative tools crafted for use by Colonial Administration Authority field teams working during the darkest days of the Insurrection.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a041/a041_helmet_high-e257e051bc524aeeb5a55dc6de33f6ed.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a041/s001/a041_s001_helmet_color-9dd406d754ad44509adc29dccdb5e9b2.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a041/s000/a041_s000_helmet_normal-1072da2b0a544597b2db606fbf770f63.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a041/s001/a041_s001_helmet_control_optimized-c5f85b96a2bb47979a670f06bba1b4f0.png"
+    }
+  }
+}
+
+Helmet
+HELIOSKRILL
+Such is the skill of the HELIOSKRILL's artisan-armorer designer that even the heavily classified and encrypted Mjolnir neural interface protocols were reverse engineered.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a012/a012_helmet_high-91f557236bf3453aadb47b83d9aab982.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a012/s000/a012_s000_helmet_color-ec95f9fdd4474bf38bb6c369ce31bcc7.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a012/s000/a012_s000_helmet_normal-9e5e8f9a01f546249958c3a3da49c385.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a012/s000/a012_s000_helmet_control_optimized-5880151d2d8e4b9f98b35b1ed2b53ef6.png"
+    }
+  }
+}
+
+Helmet
+HELLJUMPER 
+Though development delays kept it from consideration by the UNSC Marine Corps, only minor modifications were needed to make the HELLJUMPER helmet fully compatible with GEN2 Mjolnir.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a040/a040_helmet_high-e71003fbe95b412b90c08fe7bdbcb27e.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a040/s000/a040_s000_helmet_color-40def7733044463f90c3dd754af6c80d.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a040/s000/a040_s000_helmet_normal-753b6f6886c04718afeb32c60f743a7e.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a040/s000/a040_s000_helmet_control_optimized-06824bc651974b619ad42133fb5b2362.png"
+    }
+  }
+}
+
+Helmet
+HELLJUMPER FEET FIRST
+Though development delays kept it from consideration by the UNSC Marine Corps, only minor modifications were needed to make the HELLJUMPER helmet fully compatible with GEN2 Mjolnir.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a040/a040_helmet_high-e71003fbe95b412b90c08fe7bdbcb27e.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a040/s001/a040_s001_helmet_color-606da624ab5748c1a9bedac3ba31bc75.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a040/s000/a040_s000_helmet_normal-753b6f6886c04718afeb32c60f743a7e.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a040/s001/a040_s001_helmet_control_optimized-29fa1f91241945549e0c3d8b8be29cca.png"
+    }
+  }
+}
+
+Helmet
+HERMES
+Custom designed by The Watershed Division, the HERMES neural interface requires a lengthy synchronization process before it can be used.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a001/a001_helmet_high-44dc8fe5fb774d95b369c50167e8f125.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a001/s001/a001_s001_helmet_color-18558bbf515f4c839b072a496fe737f4.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a001/s001/a001_s001_helmet_normal-2fe2315f98f14718bbfb95101804b4a5.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a001/s001/a001_s001_helmet_control_optimized-4bd1f9e6640045c3ae864d943a3730d5.png"
+    }
+  }
+}
+
+Helmet
+HERMES DOLIOS
+Custom designed by The Watershed Division, the HERMES neural interface requires a lengthy synchronization process before it can be used.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a001/a001_helmet_high-44dc8fe5fb774d95b369c50167e8f125.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a001/s000/a001_s000_helmet_color-20eaf1754c514bcf8923a4532208b841.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a001/s001/a001_s001_helmet_normal-2fe2315f98f14718bbfb95101804b4a5.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a001/s000/a001_s000_helmet_control_optimized-92281f30e3a64995a7164b9229c225c6.png"
+    }
+  }
+}
+
+Helmet
+HUNTER 
+Though still considered a prototype implementation, the HUNTER's sensor suite enhances situational and threat awareness.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a043/a043_helmet_high-2f8536cc2c9e4ea8a91431a7107bdfd7.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a043/s000/a043_s000_helmet_color-2b87d0907f8d4f1cbe09256c78fd13dd.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a043/s000/a043_s000_helmet_normal-e7f2e90f8a684a09a75e4120a4d4991b.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a043/s000/a043_s000_helmet_control_optimized-da7e12d2123140fc994ba1403e6c6ebb.png"
+    }
+  }
+}
+
+Helmet
+MARK VI [GEN1]
+The distinctive silhouette of the MARK VI [GEN1] helmet remains one the most powerful symbols of the Human-Covenant War.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a010/a010_helmet_high-e4fd46df30ee46e9974cd23807b193ee.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a010/s000/a010_s000_helmet_color-6100128859ec4c3bbfa3d3cef038a04d.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a010/s000/a010_s000_helmet_normal-ff1fde48d6ce4b16a6f447875c230072.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a010/s000/a010_s000_helmet_control_optimized-a6b00f4f072c494699335858186c3c40.png"
+    }
+  }
+}
+
+
+Helmet
+MARK VI [GEN1] SCARRED
+Constructed with the utmost care and multiply redundant subsystems, MARK VI helmets can remain functional even after horrendous damage.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a011/a011_helmet_high-c550cc68107e4d2dbad0da30cbad589a.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a011/s000/a011_s000_helmet_color-12dd452262864c289d783b1d40366b6f.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a011/s000/a011_s000_helmet_normal-2f1138a6cbb64f3ba22ae24eb449468e.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a011/s000/a011_s000_helmet_control_optimized-a6659b216c854e29b81be42306fc5411.png"
+    }
+  }
+}
+
+Helmet
+NIGHTFALL
+Lessons learned on far-flung hellscapes have shaped the NIGHTFALL helmet into the best multi-environment system available.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a015/a015_helmet_high-6d076973c4a14c669562a16f70a2efcd.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a015/s000/a015_s000_helmet_color-c9c83c5fd9ff423e9f5ed328d7f136d9.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a015/s000/a015_s000_helmet_normal-1be296a7c7d3421ebfebe1ceabee03a3.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a015/s000/a015_s000_helmet_control_optimized-d49a820d82684245923e38c69485f9b3.png"
+    }
+  }
+}
+
+Helmet
+TECHNICIAN
+Effectively a cutting-edge techscanner array packed into a compact package, the aptly-named TECHNICIAN helmet allows the wearer to function as a mobile diagnostic center.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a014/a014_helmet_high-c6fb12d4c7e24fb28c0df0edc63cebee.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a014/s000/a014_s000_helmet_color-7c986dbdf4d0434db6ee1b42b21ac173.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a014/s000/a014_s000_helmet_normal-f5f7841901fd41fc9d54f16a842c2638.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a014/s000/a014_s000_helmet_control_optimized-b772f1fceebd4ce9ba80aaee7075e0ab.png"
+    }
+  }
+}
+
+Helmet
+TECHNICIAN OVERRIDE
+Effectively a cutting-edge techscanner array packed into a compact package, the aptly-named TECHNICIAN helmet allows the wearer to function as a mobile diagnostic center.
+{
+  "Model": {
+    "HighModel": "https://content.halocdn.com/media/Default/games/halo-5-guardians/spartan-render/09-03-15/helmet/a014/a014_helmet_high-c6fb12d4c7e24fb28c0df0edc63cebee.js",
+    "Textures": {
+      "ColorTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a014/s001/a014_s001_helmet_color-6e796ebae65f48609ee14768be0203fc.jpeg",
+      "NormalTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a014/s000/a014_s000_helmet_normal-f5f7841901fd41fc9d54f16a842c2638.jpeg",
+      "ControlTexture": "https://content.halocdn.com/media/Default/Spartan-Models/09-03-15/body/a014/s001/a014_s001_helmet_control_optimized-04c9d35ffb7d4899a0ba47fa58275ac9.png"
+    }
+  }
+}
